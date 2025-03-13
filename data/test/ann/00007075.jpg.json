@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 487
+    },
+    "objects": [
+        {
+            "id": 150563707,
+            "classId": 6539236,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:38.137Z",
+            "updatedAt": "2024-03-04T15:27:38.137Z",
+            "tags": [
+                {
+                    "id": 108105532,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:38.136Z",
+                    "updatedAt": "2024-03-04T15:27:38.136Z"
+                }
+            ],
+            "classTitle": "milk",
+            "bitmap": {
+                "data": "eJwBRAG7/olQTkcNChoKAAAADUlIRFIAAACHAAAAfAEDAAAAeXwxkwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADsSURBVHicxdZBDsIgEAVQTBd1YfQIHIWbSW/iUeQmcgTcYUIYAdN2GJqUNK385UszQzd8GIvpgeXhAGAx9JCiZhFA6ARjBjQlpxnA47noI4FFR5FYXLYpJUiXiyaD08/wXDxZlfavi8qPsyi6ELMgBMIRqbgK8VVCt5fidhOxQewfxTQVvZvwDaKaytBUihvgOPFNxdXJ7Rixh4lh7FohlzUJ7XCuEFYI6R1F5VUhj4HKsxCxLl7EHvwU8sYiaec6SZoa3J12tR1lKtVZxmEGye9mMg6/FmQQnUlcqTWW2NCK5eGFsOkxMaWL8gWens7khJLKIgAAAABJRU5ErkJgguLTiGM=",
+                "origin": [
+                    225,
+                    151
+                ]
+            }
+        },
+        {
+            "id": 150563708,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:38.138Z",
+            "updatedAt": "2024-03-04T15:27:38.138Z",
+            "tags": [
+                {
+                    "id": 108105533,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:38.138Z",
+                    "updatedAt": "2024-03-04T15:27:38.138Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwBLgTR+4lQTkcNChoKAAAADUlIRFIAAAFrAAAA2QEDAAAA3P2D8QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPWSURBVHicvdpBrpwwDABQEItZ5gbNUThasusVehykLrrsFdITNFIXRSoiHfgJ2MYh9qjT7ALvM47t5I9mpuvQGFLqFMOkNCm4TSko+JhS1PFZjI13KS1inpYnX6X6kfbhdTzquDT4zKXBZy4NvvBJx4OORx0XtkHhwkzapMrkmLlwQx3cq4IRJv7gQcRN4VHHZYkveRcm/uCyxB9clvjh4F7HJwnvX+VRx2WJv3IbJLzUqb8N68LtbYEdLet9gQ+ey/q4z+lIuL1vt5N7MK9yS3ijxAZ3Qd8o8QPzAWf1Ms6WDPDF2jzCpdSCJ9zBl4JjXLtHhHzvMfS3cOTkYd6jvwWjz1dPvnQ350i+Qbip8XxjOvkKEnPpyjHHiLk7ZoSXG5gfE3rslMtfTwE3OqnTceMP5I8aBzcANzVuGe7hVcwdy8cK7xn95K7CudCfAkwCU1PChxofWf6occdyU+HsSut8YHmwFc4mJoVRxx2MrJXHFJKK/3gr/wUnvsl/1zifmfT/ePc6N02NDj3b5FHF8Xk9akKpbKbX+fxWHt/Kw1v5hPnY4OQfX5Pj5/OnWD160+I4lc3H47ryRzAYi46T9wT/mJO3EO4fc6+rq5JPiNsWx49XHnvtTOLHN4MXvOeo83Y0QZfKZYDhm+bj0Qu0NyDeJAIO2ri5Q7ahqitMppHwqGiyBNfqJPw8ECT65KLEnJkUJebkRsSPxFsZL0026p6u5E6kj6XKHv4il1Xp4JK9pOelZ2Q98Co3Om5lfH6NjzruZHzV8dLvQp3PJWHLlDNY2ANlrcKiljoZKV81VUp5szox95o8kg952mOlefx572kevze5gfNv99yTPH6+5xPp9kZDEL420hRwlZY2h9MIZgsbTI+n52vN9so9rhLM08wEhou6wCos1xNiwUWNHfpY77JvIuYTbOfl2toB9wDq/nVr1hUtzSO+UN71y3Y/9OcVe/L5yvfV+Hx1xgdkxAfmNpvKf7shbz3Aw5VfBli913Fyek8cPzU9deI9nwlnP+omiYGJvedhn5vzAhf88dJjRzkXvCP3AOe+iil8unJurSXPPs9BQ3NfkVhyC/Z/nc8M555uYBY7tHe52B8kxzLeMZxL5EAeBE6XwPCeFBBwz/CPOk0M5798sSRlB48sN2RNt6Fva/3SKXhf+xiA553T8U86Tsb4Vm513Oj4oOO9jndK7nTc6rjR8UHHex0va5Xy3DWTkFsdV/6oZ9Dx3AZSnVMj5vtaxb9f+lirnO91lf+Yag9ewbfg5b/s2oMPct4remAbTvsTOcVKt7ZRrPQ5Kiv9C9OIL4vUZJllAAAAAElFTkSuQmCCjvof/g==",
+                "origin": [
+                    78,
+                    263
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 480,
+        "width": 368
+    },
+    "objects": [
+        {
+            "id": 150570233,
+            "classId": 6539233,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.883Z",
+            "updatedAt": "2024-03-04T15:29:51.883Z",
+            "tags": [
+                {
+                    "id": 108113955,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.883Z",
+                    "updatedAt": "2024-03-04T15:29:51.883Z"
+                }
+            ],
+            "classTitle": "milkshake",
+            "bitmap": {
+                "data": "eJwBUAGv/olQTkcNChoKAAAADUlIRFIAAACHAAAApwEDAAAAAYXdfwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD4SURBVHic7da9DYMwEAVgo0SiCyN4FI9mb5JVnE08gksXiAscBu6nSEVIEK/8pDv7umfMnAZ6w+MAIFFoR4CBCmAinxnT85kpgc+MKRW6VQa+ZVp0F0NQHgg3IlasgewCXwPJR7xxS8TbWiIvFEvkCXkUDzSF/aYe23AZ2P8w7H9VrBKnxAsJ4vE9Je4o/qcknVbc30m+5EtiP0q55CDpL2HSHSjDKUTflZUkVoimBCWq2+i2U1Qjykqi6lFBCtZBT6VXgiXSUklG9Lq5n7LnZc1cmmcnnmKX5dpOt/eX4mvFGjK2lNz1NNKyHVu7fjsQmL4te7knE2+7JJqf7ftEkwAAAABJRU5ErkJggvwDiyU=",
+                "origin": [
+                    119,
+                    162
+                ]
+            }
+        },
+        {
+            "id": 150570234,
+            "classId": 6539252,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.884Z",
+            "updatedAt": "2024-03-04T15:29:51.884Z",
+            "tags": [
+                {
+                    "id": 108113956,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.884Z",
+                    "updatedAt": "2024-03-04T15:29:51.884Z"
+                }
+            ],
+            "classTitle": "cherry",
+            "bitmap": {
+                "data": "eJwBawKU/YlQTkcNChoKAAAADUlIRFIAAADdAAABRgEDAAAA1NwIbQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAITSURBVHic7dpNitwwEAVgCQe0CegCAV1kwNfKIkTOzZSbKDdQdl6YrtiS5aZbVW9ChywS6q2G+aZHP5ZmoF8bI+SrBHssAXS0yOgpyRgoyzhTkZFoFc0SbSI6ohtCeaF+x4QwSxh2LAjF6R4oTnfeUdz6itKMKkozigdKuwuR/grafwr/dBPKKxjRw34fE8JFwHqGBKvnVkSPDrVHd8WhKzihywv/Jhgw5LFQcchjRrIZ8wWhRqPRaDQajUaj0Wg0Go1Go9Fo/pu4BWAA+E7/hn6r3HYZE+USbR8yvzokeKfdxIKGXGSc0EIcWIjxGWBIAGcwH9iX4nf+C8IMzL6MU2Je0FsYDqfetHDoemHiGPS93eEw9EbJLyPGXu9weLVYzD2xVzkW84BT79ws07z5O46ntrZYx7cd0yxVvLUv0jPOHSNTvV3IVV3xRCsitSUNa+noEQZiirBq+2OZuWKuY5QxGeL6voYZYbEAVxbbN2lDeENIDL7ValFA6kbfGKTfwu8jRoQzlVlEv7XTR/RjRJfboWZxKn2hFZ+eZ2l3hegng5/7/hUWz+Ws9dk84tt55Gk9fmYdsK1lO7A84qfzgtI2j/jRnGupmB/xw3nvGybzHIvQ3HEZsa5lCzyGC0c70fPtd8XV8z11Q8d/dsB3LBKW/ekkBh2N23ql7l8W0EAM/LbeB10kNOjjOftLi4zsf+tft1H7L7sZjCsAAAAASUVORK5CYIJ6Vxtj",
+                "origin": [
+                    81,
+                    80
+                ]
+            }
+        }
+    ]
+}

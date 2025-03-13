@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150564139,
+            "classId": 6539237,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:48.353Z",
+            "updatedAt": "2024-03-04T15:27:48.353Z",
+            "tags": [
+                {
+                    "id": 108105964,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:48.353Z",
+                    "updatedAt": "2024-03-04T15:27:48.353Z"
+                }
+            ],
+            "classTitle": "tea",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLrgVibkRlImtR6/QBSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EGUu/p4hhSMad28mnewwoCLp1FJwxVd4h4FXsVa055sJh/mjp3n+EG/5mPL2ek2ws4Ld7Bvl7j5EceX3f/0pWP8+/+ari5ZWGk0+Yti3Yuy7rg9Cx7xcR5tlafbyZ/+XFAauePyR+5N1ydx7B+xgzDAFWfLS81Lxqo3vpgnOhn4vOuefnNwrWV39iTN02//PtC098fK+fcMJ38b69w+LP246bXltsYvvO//qd9ZuHmlne/Q/a1xM3MPfi6Ld4xaLZlfrVEOtDpDJ6ufi7rnBKaAGPtdHs=",
+                "origin": [
+                    130,
+                    18
+                ]
+            }
+        },
+        {
+            "id": 150564140,
+            "classId": 6539324,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:48.354Z",
+            "updatedAt": "2024-03-04T15:27:48.354Z",
+            "tags": [
+                {
+                    "id": 108105965,
+                    "tagId": 31491,
+                    "name": "other ingredients",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:48.354Z",
+                    "updatedAt": "2024-03-04T15:27:48.354Z"
+                }
+            ],
+            "classTitle": "other ingredients",
+            "bitmap": {
+                "data": "eJwBpQFa/olQTkcNChoKAAAADUlIRFIAAAD2AAAAXAEDAAAAZ1vaAwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFNSURBVHiczdaxlcMgDAZg/Fxc6RGywk1wjGZG8yiMQEnhF11wImMQ+lW4icp8NkjEIJzr4rf/oY15x748IXuigGgl2hR/UZyIKCn+ojzTEVHq30SXkElSF10WU+9keW58Fk6Wh6v/SK8ZLsE9pNd1ojx4vSYocz9iN/xcw0HuTQGacwGj5EpELk9xLvCheDacC1SY/yFtei5Q5XeBWnX0KRB4wtO/CwS+o+pLWB4MLwV64NHwUuAKPH+571/ggI8tesfproebvhkeDU+GZ7y+ZYE98ifeH2WBFugB7X8qC6CcvqfjAqKRQNSPZ3Y4QTROiATOf3Y0QTKOqIQaDHEPsFyfIMMOdfYY1T89xhuuTsA9blXc6qHOwQHqZW48QHJ4gMrDzyxefLBG7VVSDrA1LgZob1hyANeH15OTDyTJ1w9l8PY1hzDm44Hm8vkPU089YpsmwHcAAAAASUVORK5CYIIGALRp",
+                "origin": [
+                    60,
+                    261
+                ]
+            }
+        }
+    ]
+}

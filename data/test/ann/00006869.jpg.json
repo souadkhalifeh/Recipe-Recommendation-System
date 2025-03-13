@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 271,
+        "width": 410
+    },
+    "objects": [
+        {
+            "id": 150563677,
+            "classId": 6539226,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:35.114Z",
+            "updatedAt": "2024-03-04T15:27:35.114Z",
+            "tags": [
+                {
+                    "id": 108105502,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:35.113Z",
+                    "updatedAt": "2024-03-04T15:27:35.113Z"
+                }
+            ],
+            "classTitle": "biscuit",
+            "bitmap": {
+                "data": "eJwB6QIW/YlQTkcNChoKAAAADUlIRFIAAADGAAAA1QEDAAAANhcdKwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKRSURBVHicxdc9buQwDAVgDVJM6SPoGtvpaPLR1O01fAQBaVQI9mIzJik9irHGCBBVib/EJp9+xuMcj3i0owq443153JCPXsqMPE1Zboi/IaGXbAX6jWxWoFMCgR5pQiDQwww0myI3w0CnxL+u/LWkUokrRr09LFmdlnj2F9+Qr993ntqBeJRXTZU7HshzLAfPhjzmvJBN2eWfQY5kSnWWHIkaU1LiWT4NWAa22Ls0z8hiir8hwZRoSg+39qII7jiR5w1ZTPEgyYqgkQiyTgiALCqMQAQj2CeEIvhUspwX6HkVhZa7lkIiS9S/LmTqWMlGklFWUzg/mZ5AXYSxVBacuDKQSM+NVEovmymJxVnSnAZ8DwxUThSMjY9KS/7QSpHYaCrph01JfmAEvNxs+cQIcLn9rEijuH9FFlO8KaGHZnqiKYcluEvrhGCjItio2nE81L4aSDAlmgIgi0odRyzYjiw3bEcE25Hlhu2IYDuydLAdEQReBqodFm6HXql4sqkdfqVioXaKOkSpnayOSmpnc/wn0E5SB6L0F+mfQdThRhXp17Cm1jCOoDTnbC9ZCYWzNSewIRwBxZbeEH8p63cSewkc27zEK9nfkfNm9delOPURY0uckMePyscNeY6lNi8wSvxY9q7nrxFYzpwyCH+F0FLOAmQDk+yHJTzStXiU9VqWeXHXgme/fhXVYn8w2oIHebkhPD23vqvgx08yZRUJvbgZ8R00bycwDXVK+mloXish7DwlfaRNOBBcMmVtJRqN9vHUTtp4SidtCF1pXUNdaV1DXWlt2X1pbdkVRMouIFL2BiJlJxApG0DKxgKk7KwkGI+RElYlj3EC/0cc9ikP2kzRjzlLGD3mVYKu+bwdXvoHELDcnDvOnuUAAAAASUVORK5CYILnd0Yy",
+                "origin": [
+                    119,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150563678,
+            "classId": 6539238,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:35.115Z",
+            "updatedAt": "2024-03-04T15:27:35.115Z",
+            "tags": [
+                {
+                    "id": 108105503,
+                    "tagId": 31481,
+                    "name": "nut",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:35.114Z",
+                    "updatedAt": "2024-03-04T15:27:35.114Z"
+                }
+            ],
+            "classTitle": "almond",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI+QNzJyAwk99T45AMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcvZ5ujiGVMx5e8WQ77ACD2uAMlu/TKPcYmn35sVPNSydjvEF3vWY+lf2pGDW84oqZxlmM4Ha5pOL+EOnuUamhIbdZDKrbNz91/veAgXfLW5M/TbaxxVKV/vwXHIr3+Fx+IbYYmtrE4OF2ZI6m7eVBfS4//9ym6fohNK2Ni6zD5oZ1ayTpdu4dsne/5jccn3un4nrT/F8Orplx2z7uWKpfCeNpwmX8pYeE9v03/3gkbiimYUtKquf3fOt9p29f3rUmy9hUWIXnT8yyuSeZL8228IW6BMGT1c/l3VOCU0AECdtew==",
+                "origin": [
+                    180,
+                    24
+                ]
+            }
+        }
+    ]
+}

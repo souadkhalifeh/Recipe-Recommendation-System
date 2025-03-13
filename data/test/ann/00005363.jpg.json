@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 350,
+        "width": 350
+    },
+    "objects": [
+        {
+            "id": 150565280,
+            "classId": 6539246,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:22.265Z",
+            "updatedAt": "2024-03-04T15:28:22.265Z",
+            "tags": [
+                {
+                    "id": 108107105,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:22.265Z",
+                    "updatedAt": "2024-03-04T15:28:22.265Z"
+                }
+            ],
+            "classTitle": "apple",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIgbMnIDCTnX3znCKTYAnxCXIH0////l96cfxfIYiwJ8gtmcHh2Iw3IWeXp4hhSMaf00m7BIwo8LAGVMhZ7hGK4ls68pNEqxMEp8S2n0W6fZUecgpihkODFPpciP5Ovre943muwBaiZ26RXpKd/O7juDf9u7zPFi6b1aBRe/lToyPNOqCqytl7pT/ETvaO7N+w+8Srpk7VdxM5dejFi577dnn750MQ1qflG31tnF5fq7d+3Zu7P+0/UXMx2vlKbdXdJavqSk5KrtIUTVpdk8dhPOLstsT3sjt8z36+sMkdSk8Xvi+gAXc3g6ernss4poQkAn9Bocw==",
+                "origin": [
+                    259,
+                    100
+                ]
+            }
+        },
+        {
+            "id": 150565281,
+            "classId": 6539272,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:22.265Z",
+            "updatedAt": "2024-03-04T15:28:22.265Z",
+            "tags": [
+                {
+                    "id": 108107106,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:22.265Z",
+                    "updatedAt": "2024-03-04T15:28:22.265Z"
+                }
+            ],
+            "classTitle": "lamb",
+            "bitmap": {
+                "data": "eJwBJgXZ+olQTkcNChoKAAAADUlIRFIAAAEuAAABKwEDAAAAWkP8swAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAATOSURBVHic7dpfzuMmEABwkFfipSp7gKpcoY99qMSVeoBVoerFXPUg5Qbl0ZUi0xiH/zN4vmwqpVJ52cT6rWFmgBDnY6xv0g6XoBYCxclwtPWKmcj8hVqiCrcLpk8W5oo/VNimTCUWHOVm89HJwvYJC1XD1VIzS+lzVghdM0djHmWmZmgMn1uGZe7nlmGxuo6toFpcq5BYZc/gWHXP4MkUfu8YGOoS/qAwGX7rGDiXVBAdA+ugg+yZBZjZVc9WKNCb7pkbFQ/bwDyUD28ITIS+CGAZZPiVwlTgAwPKoPaFwpZtKAJYLUdj7WI+21cwRet0ZOAs1wNzNGYhZmhsDJTIVkCNlQdDAJgH2DhBqAxKL8Cg3WGcR1QGlR5g0ESSzzP7bzMFsPVNmAaYawS3JCZId+MBY765WZwJ5opJlDkaaxKiIgNUW1OctYnF2D4yYDV369RgjD3D4hiA1bw/w+7dfSEseh4vXLIlXpAjKxvSdyQmbyfbwaXgGiYi0yOzuUwzVvIRg5HxisEDXSo2yYeML9XBgJLmQHViYcpCYbPt/mRHjFCtEuMfYkcqrMTZUjE1Mt+y49I6YaKw8ezWs5ixv0eVmSwMaq5hQGJbpmhMY2vlKWawtdKyQGL8ZOormc8lPZjG2C2Vas72lNzIDMZCivOCWZZqNGVrGtrBUBUzIq+ZZynAKdtYGtKUpRVwvEInb0zcQmOawEIe0JyJwtClcG9/0lhur2bownoDJt+Yqf8+02/MzBszivqfHR8dhsLaj2OMbe35BCvWypoPM4zlT9LENNJnMziErfnjOzEFsXwWyEwCassniylb86kns8kzBFWxyfMNPmf5+KwKmz6iMTSmyzBGlg5u5RbgcWVNTEyZ7fuET1y27xM+5g19wmfLIW1zpms2FDV/DTM1G6qVWajZUIbEOI01s3esVppHor1kECZpTM3Z9jGmaczQWJgz/yHGaWx5DXPD3NUktqkJk2UUgsYWiK09c3zCVHWBxCxL3+sBViJl7AvAXFes+9r4icA2CrPHJjDpNH9fQ5hvQoiv0/MQnB1xLxMmyzsxYSrHeT5ukh3bGhYLMGG6sHBj4z74YOZ8t6fHTQgLmZ2Pm/rt8lZlNxyJOx839ftgZN+KwgLO9F/prX08IOq3y60K4GALzqoerMBZFdbxJApivmPqY8yMTABM05hsmUOYoLGuqGvbQWb8KWbbiZ/T2zGGsDZxe89STdtQ9y6VeYa05eozXrHq6jndqgsrz6wayrmaDcjkhLnC6hhcN1jHMqvLtXbMF8Y6xhtmMqvGYiesSkB/d/9Y9U1Gbr/0d69Zzoj9vr+7v9+jZ5596hPpHztSlbh8dKsSuVZsKVH2ibT3/9Me5j0DWNotcwaq3zoaxgvTofmFiNeMFaa635EapjOT5cDe5vcYicxMtKrkN/5mc2NIUzVjKJMN+wZjomFoy4lD+4uN0xgjMkNj+qUs5Xf+B105vxdMvJQtNMZpLJXBv4Y9quUumKaxR37XCyZojNPYI1R7xTSNnVPpSj1CvWQLjfHr1RyboTF1vWKOJmlMEGYlO0MlMv8yxgmz8mhEZmhM05ggTF4WY6Cw++BITFHyFgdnCYzTGDOkTpmiMUljC41xGmNE9uNL2Q/nP/8AA6UpDV6w4wkAAAAASUVORK5CYIIe/nEw",
+                "origin": [
+                    48,
+                    38
+                ]
+            }
+        },
+        {
+            "id": 150565282,
+            "classId": 6539310,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:22.265Z",
+            "updatedAt": "2024-03-04T15:28:22.265Z",
+            "tags": [
+                {
+                    "id": 108107107,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:22.265Z",
+                    "updatedAt": "2024-03-04T15:28:22.265Z"
+                }
+            ],
+            "classTitle": "cilantro mint",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKxQBzOyAwkY1RuPwNSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5LzwdHEMqZjTe+Ug72EFHtaA8JBTG6Wn+HbtCuWfeoItVnOxgVOfjEBeUM6nwGYXvY/ChtsChRZVzXRoEBXcrT3D2DSirSDbgP+gk0/5EeaPbnsEtI9MZ8g4vnJtZMaBD05+4jLrn6h+26PIPcNytoqo2Qf3hPKCNf6hM5ou3eJ9yMW0RMSD6/+vOSzGT8QjGPOO3fpUl3rH8vo00Si1xJktqULTOusLOPon7OB5JShmqLhl+wLlHVynT4ZLLGMuWVoVFLWjv5LHpKWmb7mM9Ekf3keWHvGcji+SHM90KN/rY58ouJK9fT8T+90Jrib3d2hu13esCuE1YVYNBfqZwdPVz2WdU0ITAAQZeCw=",
+                "origin": [
+                    55,
+                    47
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150561245,
+            "classId": 6539231,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:49.957Z",
+            "updatedAt": "2024-03-04T15:26:49.957Z",
+            "tags": [
+                {
+                    "id": 108102295,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:49.957Z",
+                    "updatedAt": "2024-03-04T15:26:49.957Z"
+                }
+            ],
+            "classTitle": "cake",
+            "bitmap": {
+                "data": "eJwBpAJb/YlQTkcNChoKAAAADUlIRFIAAACXAAAA9wEDAAAAKqVUYAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJMSURBVHicvdjBcewgDAZge/bgo0ughXRAY5kxHbyW6CSUwJEDY152F4FAPwlZvxcfv3GQULDE7LLkZ0vJL/x5u1M6G3tf9Ke1L6YHpRQqrSk/7K9vZMkU24q5YnuxGkUVi8V0sRrkKFaDMLMl5fpQ4JUZ7eTGjAJvzCjwziwhM/02ajKamxMplypwygmujUWRMiW4NZZketlUa0akl5NGdrTmgHmxDWxhYGtncWC3CTsHtr1oSZZ0aKo3g03PmBVlxubmradp89dM5BKumQYx/ru5a6ZeNTtv+6SJM26w9d9R+sH3NvNNj/rBTC9BfQj1K9TXUP9DfRLYCXossgj6M7IAejsyD+YCskdZumIhs087vjPzNM1tGZtihGZoBEYzmRfGZ7t9Y3lrTREssLyNpggGrEevsfzKHUQB08DYcrRe8z+yMizt7Q+3PPY/uCVRKdoIsr01C8xNmp+02J8CSro3s8g+eU/wANbRI8EZ87Ll3E+bsIhNtL8Tm2idCbTnBMYCNCNHHjQLTdBnYeR7DsT106aEhX9s8ZLtws5fMXkOrpk4awMTZ3dg8nAM7HjVIljvioVfMD95Z/X4nqh6c+DO5UDjQI2tHx8pj5UumQgsLLKhBtB4PbDZIWDBoLFiluXh05mcg9BOOUPp0oDs4BbETMaWh63i5sa2c7PAzCKn8pOaItAFYQXGNxe/sgOYBqaAsaQNGUt6kVZ/k6kb8cXqRlyxmrStVhI01SgZ/isUBYnMaMHATYuwZUFOecFmubyga013mRDSa38B49wrVD+DzQgAAAAASUVORK5CYIJc1Tdx",
+                "origin": [
+                    208,
+                    43
+                ]
+            }
+        },
+        {
+            "id": 150561246,
+            "classId": 6539262,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:49.957Z",
+            "updatedAt": "2024-03-04T15:26:49.957Z",
+            "tags": [
+                {
+                    "id": 108102296,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:49.957Z",
+                    "updatedAt": "2024-03-04T15:26:49.957Z"
+                }
+            ],
+            "classTitle": "grape",
+            "bitmap": {
+                "data": "eJwBmgJl/YlQTkcNChoKAAAADUlIRFIAAACsAAAAyAEDAAAAT5qY1wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJCSURBVHiczdg9buQgFAdwEIVLjsBRfDTo9lp0e4xwBEvbTIHMAp4ZP3h/xkabSEuR4icH3hfOZIQgK20CLJ12xGtKiFNKnqvMHDgvmcGZOvODs8kcYSAjBoHbzCDwARdN7ibLyv5HWE3x8onDf8MswI9Zuinu9VlYzHlObBfjwaqfrGPYdL+RqRNr+kx1nW/bT3PJPkg2tpUVG9sifmHBF3GaVaAMcg2nKeNx2Nr3ot6/nXH59a9aruZ22vReNJ8EeEkSsUl/EK+Jrgg2JiwxL5gNZos5zbC8zaUTquOc/ANz4tmUNpQOIY7HmNEVSsgO8Zp/mI592TcydjUVBzjvsvV8tGDveH+W76vlCLqeXrPW5/iazJ49bPDrjnS7vG9Uy4MJDC/W6MR+8ze3vQwXLKdYzLHFaZo2fZzPmVDLg6qcr4LmUPJqo9vTVxt9XuDH3SXTYDzmsyxNAQivmGmA2yWnGZZTrKZ4mWJ9g8N3sJ9iN8UCMhk2mvxgNAnTwj4wn5Vqmnbm3nTeE7YobDqDzZ9/g1njTRbMEjOJ0OEz/4HXKbaYcYCDdNQUn6Xab/BZ74i5+YRnrnjDHDD7G3xZbjH19GDvgHnDHDHvmAe3oYmQsMdMIzxL1UQ4YH3y45rJTYvXTGaQZi8x0zcHZTvm37iEv/jeOft94ZzTjIBz4JviLJ7/qfRsklMseVIBxvIT8+8ABmz7Xn7kUhjwbYTBXPvv73ItoWOs+uY8F8r9iBB8/1HO5PHVzXkgdXOkYi0P/wWSpPZtofGnrgAAAABJRU5ErkJgghMGRIU=",
+                "origin": [
+                    49,
+                    52
+                ]
+            }
+        }
+    ]
+}

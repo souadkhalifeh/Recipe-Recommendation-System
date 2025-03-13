@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 332
+    },
+    "objects": [
+        {
+            "id": 150562577,
+            "classId": 6539232,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:15.718Z",
+            "updatedAt": "2024-03-04T15:27:15.718Z",
+            "tags": [
+                {
+                    "id": 108104090,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:15.718Z",
+                    "updatedAt": "2024-03-04T15:27:15.718Z"
+                }
+            ],
+            "classTitle": "wine",
+            "bitmap": {
+                "data": "eJwBfQGC/olQTkcNChoKAAAADUlIRFIAAACBAAAAfAEDAAAAdGJB1AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAElSURBVHicvdU7jsQgDAZgRymyHUfgGttxsZXI0ThKjkBJEcUzQ3jZ5GFFo3X5Sc7vACEAeyGu0JTFVCsHxDmCroA+PaJWbJtaiW2aiGdNiBtv+oihgrxJJrNI7FcEvibmv2Tjm/Nc1CPp9/1W1iMZH8lwJ+FI4E76E34slsgiFEPEPZL+q5TI5+tWAiHbsx3LeC3xJhkEQpY1nIi9lP0eMwLRjSxiUY24E5kuZb97R4G0CwQnAleyJbECMUXWU9FFQic+iSqydOKS1OWYk9SXh1x8wDp0/c3lEUORHOaL5LClSA5zRaAXSwesYRVS2NbIxAbMYaER6MXSkXPY0opmA6b4uZWRDZhODBFgI8f49Y+KQf9LRaP7oaLoNDF+ZjKw7HeVphcfKJ1DGf6OZgAAAABJRU5ErkJgggnlpDM=",
+                "origin": [
+                    9,
+                    66
+                ]
+            }
+        },
+        {
+            "id": 150562578,
+            "classId": 6539282,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:15.718Z",
+            "updatedAt": "2024-03-04T15:27:15.718Z",
+            "tags": [
+                {
+                    "id": 108104091,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:15.718Z",
+                    "updatedAt": "2024-03-04T15:27:15.718Z"
+                }
+            ],
+            "classTitle": "pizza",
+            "bitmap": {
+                "data": "eJwBwQI+/YlQTkcNChoKAAAADUlIRFIAAAFMAAAA9wEDAAAATNr/HgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJpSURBVHic7dpBjtswDAVQBVlkM4CP4Jsk1+ouAnqAHqFX4VF0g7LoYrQQxNpJxhjLkvIJDGfQwlwpybMjM0ZgUXTOORF2UIwyRSjeHHxFHmYp8TY+H2YxTMeN1DqppPvwOKmXMU/D2pTkHvPwKj+ms5+v04tLbFN/n0q+vUHuktp0+ubhdsh8ALv719TpNLeLvI9KCh6fpGX0iEoKHp/kR9aWCE0q7rSmlRQscytoJQULHdY0tykVtJKt5SxjQbfZklZss/XJNPxD9PfGNukrw1T+lOlq080fSYeW92GHlvfhx9Dylu3Rb8eE0nRa3eA9KsPq5+3Sn6tL61JZXdoz6nEacMo4jThNJjSb0Hf2KRUFJZwyThNORUEJp4zTt9MiNOCUcZpwmnEqCko4ZZwmnIqCEk4ZpwmnGaeioITTgFPGacJpxqkoKOE04JRxGk3o5rn9Q2g2oaKg3oSSCQ0mlHe6053udKc73elOd/p/UsUzoeKh1OYB+quXEDbLHZulmYIqlpE2VLHkVSykvcVKXlEfUFQdokmFRFF38RaFH0U5KeI0mBTUTCp6GafRpFAZcOot6q+Kqm40qUATTj1M37YsAJpwGnEacEo4dTDNOI04JZgq9owYp4RTj1MHU8VeHOOUcOphqthkZZwSTh1M4R3pYlsen+oT6mAaYFrs38Mz7VJFU4CiK0FBy/acDmWYbrpz2tTDNJSySTstR88m2qbl1TepG7czrdOEU3YDgZRgGhotcls5Z/SE0VkdK7JBDxitqQrN118wHb8HkNZa82qU3QGjN1XrDVwiuGv/utdxqXXkNeKMoL+cKCIkO4T80QAAAABJRU5ErkJggrLIRco=",
+                "origin": [
+                    0,
+                    229
+                ]
+            }
+        }
+    ]
+}

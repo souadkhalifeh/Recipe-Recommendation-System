@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150570216,
+            "classId": 6539231,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.881Z",
+            "updatedAt": "2024-03-04T15:29:51.881Z",
+            "tags": [
+                {
+                    "id": 108113938,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.881Z",
+                    "updatedAt": "2024-03-04T15:29:51.881Z"
+                }
+            ],
+            "classTitle": "cake",
+            "bitmap": {
+                "data": "eJwB/QEC/olQTkcNChoKAAAADUlIRFIAAAC9AAAAmQEDAAAAQCSpUwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGlSURBVHicxdfBjYUgEAZgjQePlGAplrKlSLIFbEt0sC1QAu/mJoRZVkWRmV9D4uZxnC8OwwgYm6YcvWGhdYwWADkhGNO0DNoYUD7CXEDnI1DTMehJNx/kJLAR4vAFKNpGBh3lEPIsOZBB4DP4JPVN/JGevigf7gCqhO6doBAM1QBTPTjH+BxM1UC10D4H5Qu8h3K/7aAQTNUwIhhKmBGks8aqehACmvxBoDsYEUwM9AosjqEBEBD4d8KMwCGwN8DOTZqDQ0BAEHQ1mCX+AtD9cLAIlp6ww3wFy9JVDXh559Lak1ECjcCKW5rWekXw4pam9VWJQGLT17IAGH5T3oAVm0t/CwEwi829Aid3/QKs3PVLmKpBjsde/T9oAAHthXogCBq1xFSDRu9Do82g0U6Eux2dKELHOYALYAFx9iB/cDYYBfCXt4w0iQdfte0SHxAIx9Be3/q8XenLwgrWG7CCE7CCU5x1ZYei4OMvpyh4n6Io2B3xU1eyf5xzwSaHLFfxG3UsXp9hz+WaYqRcZTzlYg9sawwsvvXLCqB4qUcuI0HMlT/wC7s7LlPtcDg2AAAAAElFTkSuQmCCbVbZNQ==",
+                "origin": [
+                    54,
+                    65
+                ]
+            }
+        },
+        {
+            "id": 150570217,
+            "classId": 6539246,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.882Z",
+            "updatedAt": "2024-03-04T15:29:51.882Z",
+            "tags": [
+                {
+                    "id": 108113939,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.882Z",
+                    "updatedAt": "2024-03-04T15:29:51.882Z"
+                }
+            ],
+            "classTitle": "apple",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIZQFzAyAwkT4QvFwFSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5EzzdHEMqZjz9rIh3yEDHtaAcEmbXxx2Xf1ifdcWf+GQlZzgExRlXr9RIInhiLyS7dF7+zqjut6/VJAWjZ/NkqIgH+rAEzShseYKS9KEBpOJjVon3H07vZT8VDq/ZN7sXpU/8X/DK/aTQpn14hc27t36vOzM5C0rszvSMy/Fpurta3vhxGbFP1PO0bAjgElpyt+vrVHOt7RFJ14z28VscO6z2i/t0hNAFzJ4uvq5rHNKaAIABm5Zcw==",
+                "origin": [
+                    152,
+                    0
+                ]
+            }
+        }
+    ]
+}

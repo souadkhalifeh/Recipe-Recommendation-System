@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 341,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150560216,
+            "classId": 6539236,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:35.868Z",
+            "updatedAt": "2024-03-04T15:26:35.868Z",
+            "tags": [
+                {
+                    "id": 108100775,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:35.868Z",
+                    "updatedAt": "2024-03-04T15:26:35.868Z"
+                }
+            ],
+            "classTitle": "milk",
+            "bitmap": {
+                "data": "eJwByQE2/olQTkcNChoKAAAADUlIRFIAAACmAAAAcQEDAAAAZX1KowAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFxSURBVHicldZBkoUgDARQply4G4/gUTyaHI2jeASWLiiZP2IgpFvr6/KVBZ2IUefO69fl3cGVP1ewOP1rYrfCzVPRxG7N2WscRbsYq2hW+FNR7zc2jU3npirF0lSlUJg3wUFrzTZqPUy5ZuG5U1li6VSyrZ1mqFctPBgNGCxLKyajOwkmIRajB9USYrUaqG5Uo+15i/alJrruQTXTKs4yUAPVSHpWoqEm0vUSDTVz9fg0SzSiG56HlxrxnD0pPoyzEW90BU23uoAeL3XGELc6fav8EXna4EBbGWh7NtqIe11A+VmNtIxI5kZRLCOSefT40kLgnb6IOxtI5QWHwA8KZSQ2KotCGWX+0WRQxk6nIp+2kU7mcyhCtKI2RHAsxKUmhHcsxKV9CPlw9SHqR44FMyG8qA5Rv4ddiFhVhwhVdQjXrob6L6KFiEpbiKC0hjgUtu363x5ZeOtUEvtOHVnWySkORgdc9dovAn72I+hci/oHxMN+LnmxR/gAAAAASUVORK5CYIL7UsT1",
+                "origin": [
+                    305,
+                    112
+                ]
+            }
+        },
+        {
+            "id": 150560217,
+            "classId": 6539250,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:35.869Z",
+            "updatedAt": "2024-03-04T15:26:35.869Z",
+            "tags": [
+                {
+                    "id": 108100776,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:35.868Z",
+                    "updatedAt": "2024-03-04T15:26:35.868Z"
+                }
+            ],
+            "classTitle": "banana",
+            "bitmap": {
+                "data": "eJwBUQSu+4lQTkcNChoKAAAADUlIRFIAAAGDAAABOAEDAAAAg6cN5wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP5SURBVHic5ds7lpswFAZgCAWllqClaGliaSxFS6CcImeUYBts4L+P32ZIEbWe78B9SAwCmgaOvtb6G/+ER1vvY3SLXJcx+UCsz/HtAV3djMEWaSvso+wOUSt7CPu0DoeohT1E/dJBewBW6P1RGIFEIPRAMhBqICAMIxAUhh4ICkPvehSGKo4Ft5IVsJhkkbBQ0ouBkl4hDGWKCGEoBRHCUNIrATG9YhhienFTzUNKrxi4uAaLgYsFyaKQ0isDIb1yqqT0yqmS0hsVgdObFIGTlRUBuxcuPKrQUoWFliosIi0yK/TAkdDDQEIPAwk9DFBzvRpIBF2AaZtooQMgjDDAHDTCAMnN7EkZLQKmudEiYPGJ/z6M4+pjVaMeYrcCn8c2+OgQ21iSQ2wPkj1icw1xgdeq2Mm9j2conlTdxlqV4BVr9NEtCpPczWllt/imxVITP3gE4i3HPL68vb6Ob1pUruTzGLiS10fVIyOKVwxLYxRnk/xeq1CcJR/WwhVfyZeWbR+R2+Jlto6+JnlO8H50lXx/obVLzov90h5oEU2xvxSkC0Q2xbQTJnhDlC1wNMnHwrGSfCwca8/HIlwg4gUiXSDyT4hxK2zwsfBcaD8Vngvtp4L/x5UX4b8V0Qa7y6BDjKzgr4IDKw77N6YotNiflCmON//JEBMtRlocwBv7C4Y45NYUh9xaAm2/6QJt8ekChGFcDEZagMD5vTRdwJ1KVcCtY1XA/VNVTLQotBhpMSChAfxIQgN441gTeCdfE3g7+1wx0aJcIMaTRFbEQAsIzhXCwxtFCA+IThXCY6tTxYRFkkW5QIy0GC4QGGj/ydBCeoooC+lJZRAF/zR0Ok3I9x+FFiMtBkHId14CkIX4XJ4X4j2n+IKQKMT3C0QxSUK8HBRajCeKLIiBFiJ4QyQMlHdjeBHPEsp7Z+ECIUxbRQhTSnmZhhfCBNHeh7pC5AtEokW8QARa4MY6V+DG4sWkCNyKmsCNdbLItEi0iLQItIBFP1nAoqsCFl0VsIS6yLRItIi0CLRA6dUFSq8uUHoNAdJrCJAsQ4BkGQJ0ryFAeg0BklUMcUyWJY7JsgT/avfxtEwxV6RkRrTz3wRG3EZHi9donCLSoqdFS4uXQLwi0iLQ4hn65BQtLRpeJFpEWqzJMj59eI6OFi0t1j7xi0SLSIulT/xf/HS0aGnR8CLRItLi0VmuL5Duo6dFR4slvQMt/G3yRkGWfufF4BbLDBl/UMS3RflBES4QPR05Lzpa8O3e8CLTIrHdvhSdEIFdGh4FYT7n7NiV4VGQQoiGLHlzLwgT+L0g1CFuBaHArSCc6GnRkZ/jzgUpHPhbkJEVeWBFokVgQfNL+e0PPzzsM27wSy0AAAAASUVORK5CYILbRue1",
+                "origin": [
+                    5,
+                    22
+                ]
+            }
+        }
+    ]
+}

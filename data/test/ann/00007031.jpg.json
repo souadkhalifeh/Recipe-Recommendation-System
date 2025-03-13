@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 389
+    },
+    "objects": [
+        {
+            "id": 150567000,
+            "classId": 6539235,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:57.887Z",
+            "updatedAt": "2024-03-04T15:28:57.887Z",
+            "tags": [
+                {
+                    "id": 108109281,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:57.887Z",
+                    "updatedAt": "2024-03-04T15:28:57.887Z"
+                }
+            ],
+            "classTitle": "juice",
+            "bitmap": {
+                "data": "eJwB1gIp/YlQTkcNChoKAAAADUlIRFIAAAD1AAABOAEDAAAAuX4n+AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJ+SURBVHic5dpLcoQgEABQprLI0iN4FI4mR+MoHIElC0uSKXXk0x9Iq5NK2L4aulsapGpUah9D3EZQ0NDxNQzA48HgBDEd9QSfmdcTTJnHkh85R09OX08wll5MMJWeT1CG/x6WDF+UWIUvAtThswBA+KwCIHyMCx0+XSSQjwAfsM/09DE6orokAFhdEgAJ/6pQY75ViPL6iNHptwIG3AMdfi0A57UHKHeMe+LpPkdgfGH8+QRJt2T9vDvGPeMB774mnxlfGI9kf8TnA7zWLevg4fAaTuiedWJ/xecCXeseP16a3And0huYdSN05gCJ3AHQcIBogc/E66PFA31As+6xt2ejO/oFwrql3n+NTi2wafEJd/L9vbtGeWnyEfW5yQfUg9DXGwreAG2ON4ATuqUvUKyvFyS8QThXbT4hvAh9v4FqoY+Ih5N8+KH7zbEG49w1OtZgttGxBjNCVzJfhD4LPQjdC90JfV9ebINzboSuZL78cp//uIc/7v4+n97h7p+7fbObw/WbfYRc3ecDwMubPTn+wAvWnQ5d0MKNDl0g/C931+HQAd3lU+22x7XQx9pNjw/9njLUwF0ONCDjS+b1Avd5vcBzn0+9XvxFpoU+lu7P9aF0d69XDWQvdpN71YBSV31eNTDjy81ebpD5Yq/+YZ763J/t+lx3vT7e67b04V43pX9e7B99XrLYH6d6tX2LDXaBTz1ebX+56x4HvoDhfLzTfe2D0LMGdLVnC2wAT3cQwGkAYPmzANwXTED6Kq0QSj9NAEo/SQBO70gATu9IAE7vSMAi/qDT2x1Lb98DWHp7D2Hp7UuIpae2J4Slp9YK8fTWDBzliv75d4Ti5180AdVayuCBegAAAABJRU5ErkJggouWWRQ=",
+                "origin": [
+                    60,
+                    60
+                ]
+            }
+        },
+        {
+            "id": 150567001,
+            "classId": 6539258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:57.888Z",
+            "updatedAt": "2024-03-04T15:28:57.888Z",
+            "tags": [
+                {
+                    "id": 108109282,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:57.888Z",
+                    "updatedAt": "2024-03-04T15:28:57.888Z"
+                }
+            ],
+            "classTitle": "lemon",
+            "bitmap": {
+                "data": "eJwBJwPY/IlQTkcNChoKAAAADUlIRFIAAAFcAAAAmgEDAAAA3x5icgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALPSURBVHic7ZlNjtwgEIVt9aKXHMFH8dFAmkWuxS7X8A3CkgUxidt/8OrV2E7L0igalsVnePXAbopumqXZnPPQnGuPPLXxHNznuYUTbLuwOZ6AzQqfEZK35g7Zxw4P51WcEd3v8LFou8OHotuCPRT9LGEQbRPAXQnXna0Q1uuwEcJKFuywGHno8Jy61/LLGVXUOZsjuEyx0+FOeG91eOkKihm1rcLOVofXrt2hB8CFUVuX5lwJGxEzABepdyLWAVyk3ouY1eGta7MD2GJxd59GEYFRbCp8UpxbYPDIcefmKXE+/xmM0cBtnvV1EIvc5lmfpYkoMNUGr/areWLRYgdO+NoIho2gwVLbQFf7FZcjBLraU5wEowqLhVrskHn/hY0MZhXuCew1mLAvOxhMYjNMcokkNnvHYMPgeAVOdDvn2L0NjwrcMzjTvZ/TJdhS2F2BPXurcqLstITvwr85HNgLpLVLcLwIn2anzXETPN4G5/tgdxvsv+F/hYcLm/8b/opw+P/h/k34lwIPN8Ldm/BPBfY3wkYGfyiwY/CHCpPTlw6T0+ElmJ4u8/RrRc7PJLTA5DOqwCMrEEYFTqxOuQYrH/jIToEaHNhhNCkwPZpfhC2FaTmhwY6VQFGBlbr7Exi7Iv/wjBRWvlKJ1qWBvZdrfYxdvGhbSk3souXgWvFi18DenrWWxi4OLyW9vENgG3qWLLxz9BjpGlrT01p8u0nqRLh6fDTFwOBdwsdT8yzu8GrvIj5e3yPWTolatb7OrJ0SJXOo4Nopj48PNdxfgavkHc7la7hKXiyqq+Ey+RGF4R1zmXxCYeL2OmNfIWxAuJg14FwOYTmQKrnK0MNceFddLYKDuYKAd1/XWTfRXsKbVZtRa0Cy+0ADzCUlFzoczEUkbwntRj0VlwsdeCdKB151DHVA+6PC4Kwd922fFq7t9b9LbCY7TGutYqo2tjsA/gCa8EpSd/0RKwAAAABJRU5ErkJggisug68=",
+                "origin": [
+                    13,
+                    350
+                ]
+            }
+        }
+    ]
+}

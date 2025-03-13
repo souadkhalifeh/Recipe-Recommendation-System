@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 490,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150568948,
+            "classId": 6539236,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:30.266Z",
+            "updatedAt": "2024-03-04T15:29:30.266Z",
+            "tags": [
+                {
+                    "id": 108112142,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:30.266Z",
+                    "updatedAt": "2024-03-04T15:29:30.266Z"
+                }
+            ],
+            "classTitle": "milk",
+            "bitmap": {
+                "data": "eJwB/QEC/olQTkcNChoKAAAADUlIRFIAAACnAAABVgEDAAAANmEfpwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGlSURBVHic7dlNjoQgEAVgzCxccgSO4tHwaByFI7BkQWTsmW4p8dm0/KiTDKvOF1Ja6MOkYex3eD+xePjnMMS+fBh20YGo12DqPEYw1XuHpj4vOcTq6V2FoUCBnxJ8qw6VfRQGOBdGaqDaHZVAXbFOf0wdXPU7q7hc7Y7y22p/uZpDCnaNm2gHVJ+saENTN9D5QyKvVvh1Olcf32txsbpd5aep3dVt6FupOajb0JerPqjb0JerOqjbeJfrWEdlibI6OhTo1FTFR+qaKv9IbVON443VNNU43lh1U43jjVVV0jiyR3SspTJf2XEdKuuUoaKyurfKT1H7VvtTdR0tc4muA6cbK/tAVWuVuTrm6FBXWY6KqjplKT9BXUL7E9QmFP+hWldNlnY3UHYHlUH1v1ZSk6c+T0MuumJN563mXsKTmtoRRbEOmepg3ZrKk2oTSlfdQNVQVULp+zBCXXD1nkGlZ3OoYZoWqgNomKohKkDDdNGohpYV1JHo0vLqgHFpjt5uaMOs9HVreqU9uNhSOD7NlOBir8Im0q/oQZDJ40Y7hPO6qfD7G0PWKH13aga3AAAAAElFTkSuQmCCDj3vFw==",
+                "origin": [
+                    43,
+                    61
+                ]
+            }
+        },
+        {
+            "id": 150568949,
+            "classId": 6539250,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:30.268Z",
+            "updatedAt": "2024-03-04T15:29:30.268Z",
+            "tags": [
+                {
+                    "id": 108112143,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:30.267Z",
+                    "updatedAt": "2024-03-04T15:29:30.267Z"
+                }
+            ],
+            "classTitle": "banana",
+            "bitmap": {
+                "data": "eJwBKQTW+4lQTkcNChoKAAAADUlIRFIAAAE7AAABLAEDAAAAhsGGpwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPRSURBVHiczdpLbtswEAZgG1poyQsU1TW6Km9W6mgEehECPUC59MIw29im+JrHX0VOqp2TL9Lwn6FsIzqdhuPr+CPy+PIdhPYH5r4lEKZ0Q9h0BqH5mVJCoP39F64ATG+HPxwG3U0oNHcYdbjc4QWFVx3aOwRa84BAaxx66QTGc0bhnMAWGvSMjxiBzjzT0TvzSAeI5+H0zkwonFFoULig0KLQoTCBcELhjEKDwpyO2uucjjo9OR1tcM/ZaVthS0e7kc5oiVs6UYEWLLEsWimxLFo54bZorS/bWuC+RPCEyqJLW5RFLyh0BYquhKiM94zCqkQ576pEMe+qRBlWJcqNqUqUd5ZFYbUWudUJhPWixVbDcKqhVOKMQoPCOm9xeOweKE6ZQ2ECYZO3NI4TCpu84xHQoLBujDjgdhf0AnSHw9pJO+F8OJz2QWEtMwrNPijUuBwObQM9D93hsHHS4KKwnQlhcx0P2+ERbikvh/z9cf5vIP/2YV4N+W14PFz2wvXjoO2g/zwYOOheDuPnQXZjvx6y+xWGaS9k9+vrIbsNPwCunwc9A91uGA6HEYXciA+QG8j9kJsz20NuKka4Hg49CgMK4zvhMkCmhyNkWjNCpjXvgEwPCbii0L8PmhEGFEYU0q0hIN0aAtKJzyOkE6fgikJPwYmAAYVkPhQk8zkTkMyHgmQ+JFwpSUGPwoDCSEFHQDJICpL5UJBctkVXQ0KqiQsFqd7Q0KOQCMiQkAiIhsS1GRgHSO2uRAXEwLE5HAw9pHbX2zEExMGhOSzs103uLuqUPIwo7NvIwj4hHnandOgpBdg23PKwHbZFgFcUNqc0ErygsB5LbiAfR9VHdnweBwxL6PxU3I8qIRlWCSmwJORkeENhidIqcItyUeAVhVvmRoM5ILnZqQSkwhyQ0uy0BaTDAE1FVaQKbyjMRTq0SIsWuaBFGhU+i1Rbk6Ge+BPqied8dOjRID0apEeDDGiQAZzxf4YHznhARzdDp8F8D7AoXDT4HAo98QzVIJ9ODzJDLchyH4ehk2F5V7IyjBtcZOg3qOSzOSWf6o1TzqeUqOQTKugkuFZwaX7zq3nVfEYzbVHNBZqPu20+sblAXWKXz6V5WZfY5XOpFyd9jLzWpXSfyG0Lqz/0LWzKv9VFt67N51Zdov8uMPyjNp+yu3K37Gp5p/5o4Lr9ZPya5gZ4rzsMsMmnL4zNR4IzCvk56A74OZZm2SJcUFivRnJNb2RYIleeGjQoLAFpj7E5FG7X1p53m1B4gmFuTtRgbk7QYA7IazAvR3VPiT3vrg1ZkeT5/gBUd9PnGP+vaQAAAABJRU5ErkJgghJb5Xk=",
+                "origin": [
+                    189,
+                    181
+                ]
+            }
+        }
+    ]
+}

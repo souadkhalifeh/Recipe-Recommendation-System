@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150561342,
+            "classId": 6539238,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:52.414Z",
+            "updatedAt": "2024-03-04T15:26:52.414Z",
+            "tags": [
+                {
+                    "id": 108102392,
+                    "tagId": 31481,
+                    "name": "nut",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:52.414Z",
+                    "updatedAt": "2024-03-04T15:26:52.414Z"
+                }
+            ],
+            "classTitle": "almond",
+            "bitmap": {
+                "data": "eJwB+gEF/olQTkcNChoKAAAADUlIRFIAAADaAAAAaQEDAAAAZo2vQwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGiSURBVHictdVRboQgEAbgMT746BHsEXqAJh5tuVk5ikegbyYlTgUVgeEfmyblYbPJt8A/A7pE5egN4cEW28wLtInZKQaxYwWHE7sWvgLugQY0MeBowMSw7CTxmBjwZcFEXulNdumcuOO37NJ8ou/3UB2X256r8rYv8cUV8jWm+Fls2yX8lNhzOQocKiwCjxrOFbpmnqsiZdXQKdGCbMBCCpSrZlhnLRI1JiYUheRY967AScNGHvY0WJSH/XQcW6sFYRiUJ+GoYStPGOhIbgSm4oY6+ztEPfCPiBrklULC5URxIqIdH9DhOBFHiEv7ciWc/4YWn3REaDqa/0HtxFg56uNmIlXv16Y9Rpv2GHntSfHKlhFhKesTjggdeEE946KUGRHOtFogFY1Wpzna55uX18R3icN/HV3ceW4jcfvEj9f4R/siHfjevkie7qGiKCb7i5QtzlHEdRmKuCouGYpabIbi/WgyFIWqmFvdha3AOeZPodcCp/jzlMsKdGn1ctXYP5t67EjMpNRjolrvZ9nWSJ276l2F3SVtyPZNsdGw3N9/AA2MhDndugUeAAAAAElFTkSuQmCC0hXqmQ==",
+                "origin": [
+                    119,
+                    54
+                ]
+            }
+        },
+        {
+            "id": 150561343,
+            "classId": 6539256,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:52.415Z",
+            "updatedAt": "2024-03-04T15:26:52.415Z",
+            "tags": [
+                {
+                    "id": 108102393,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:52.415Z",
+                    "updatedAt": "2024-03-04T15:26:52.415Z"
+                }
+            ],
+            "classTitle": "olives",
+            "bitmap": {
+                "data": "eJwB/wMA/IlQTkcNChoKAAAADUlIRFIAAAGDAAAA7QEDAAAAZyOLzwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOnSURBVHic7dq7btswFAZgCxrUTXOBAHwUvVnJNyu3vAa3ruwUD4JYibqQ4vX8auLaQDkksKNPJs85pKWIt5trXN+g1hhjBCS6WdwhwWYxIeAbn4VBxPcFQANhVihADFZoWIyAsAOHgrUKJFjmqhBk0GxCwkKRRXtZaNrhZq11s9d7UwtZOyduFzbpQy0A/RzU3hNNtXNzSaldLGXSVetrGTDzPoPV6msJ0+gLXsu97dDgRFPNiz34pxPtEeVc2+r8yEdXmyiNCURfK/suFKwm+lCsQRB5wULBUbGNS+bFcBJ6r3srWNLxQHROsHR9hWKLhFqjKBKfcgJz5tghlv6+V4UZh13YELyrCDQm3bYB/YpFmxV2QB90cd9CoCPRZQWDxQCKcUtUPLVw0WeFAcXUXBVxLeaEaXOC5YS5KuJl6BFiqIh44XpRIZ5SyKcU6jUEqwn9lAIfBy4kLhpUjJ0ARdSvLxEKFhoWARkI4rxo0cQIC3+F5yRhcCFhoWDhBZgG/AsBohhh4YWX08UbJMxyDSpB0W/Dpwqx1JOg19V88HL1dEeE7Na+AaJffmriHFyasqceEcGXnxMgfq+/APGx/hKFK8t0k7BQ+avwTNOwuOfvWDJtzN9HfZqY6NPWCfwzQGHgWBk4HwaukrkUccG+XMinFOq/AET/lAKdUfKCQOf5YwS6Xl0R4Lq7CP4AMcCCYQL/Qhfw4n5JgGVyg7/WkKs4J3oE2GtraCATcunuiQEWDBAjcr/mCyAl+70OXWhYqAcIid1MGfc/NroAb9i8m7yBKsYHiDss9pTTq1fBYk8Heaq7O2iqcHfp1HVRw0IegroACVR4/zogTnT/yQYuOEloTwywYLDoYUFL4d8JWgr96NJSeHo2hQu+vvdOF8P6XjkCJ8HsW2M5AqenWeuhGhBrt2Q5Zmdhj61EOXjGxuw7RRE9//pxq0yU5OYABoseFsUUJkU5WClRDlZSMFgU6+STRHHo4nVEMSHyhQQviPTI/7VIguJXIiwyG40OcacKtv9dRyPKiP4QUf8yO78OcewUq4ljxVLR2pXZlHUcJ6Mpr9PiOE5Ek0vVxJp+7YRMi+PMW6CFC5koi2nf2MqMO0e6uVA2tie9ceeoiXlMozew7NY9HgT/GFh2jxwLg19Jx83bshUIlRP+RjK/m4Xta6HYE5IF0YY4VgluvE2vr4RqO2KKhMqLNghlVxvGOtTwDOU9ju25C00Qu1TjJngJbVBehPBe/AEGXRDq6m71cwAAAABJRU5ErkJggqEmz/c=",
+                "origin": [
+                    60,
+                    132
+                ]
+            }
+        }
+    ]
+}

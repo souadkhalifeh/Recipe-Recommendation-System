@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150559928,
+            "classId": 6539275,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:30.455Z",
+            "updatedAt": "2024-03-04T15:26:30.455Z",
+            "tags": [
+                {
+                    "id": 108100487,
+                    "tagId": 31485,
+                    "name": "seafood",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:30.455Z",
+                    "updatedAt": "2024-03-04T15:26:30.455Z"
+                }
+            ],
+            "classTitle": "fish",
+            "bitmap": {
+                "data": "eJwBKgLV/YlQTkcNChoKAAAADUlIRFIAAACQAAAAdgEDAAAAHZWIZAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHSSURBVHicpdZLTsMwEAbgibLI0izZ5RrsfC12DuoBuJJZsewRsMQFvMOIKIPt8XtSVAlLVduvyfjPxEkKkMcKbKiNEepRJjQjzWg5uZEW3EcSeHDCkVbEMZhEFkwhC4bIgnkagk2ehmCzpyHYwmi5euqzio9AXVYRpM8qOUVB4567VH58NmkXoq8mbSI8pQdOpb7IVOuvyIrJQgencuhqpAmbQd3wHbVlAp1TmamneApzOZM7Yz3pfWnJgTxAveGlJbGD1GV50rl/gtWXplUw5eUgNkZxdpeSUgOUCYEyxQaEHyphLHAE2kBokbaaM627SLVE2NYfhE+dac2kIrlKoQOXdLAy9C+Q/5p6KUOzMJJV1HFFZMNLpljU3EDflDQkdlOYCfGHKC6ChSiFz+fohHY6M3tHciRH5Boy9KklTXP3NHOCXF5WkpSrWzoykHgdCJuFmElUMt2i/4sEp5kT9BTW1aNkpHoy/QV0gxyngxP212fe6oTWu0jcRQunmdOQIl5h/ZSa0zbSle5DbYqXjRFJt+N/qS0PjI7b1LSi3FYr2Ux1Sg1sTyhDjaXqrrYhMZSCcrlAOyS+s+ccnj2T4YzYw/xOUuyPAUhOwjKaTXz7BctXT2bCCVslAAAAAElFTkSuQmCCIVT43w==",
+                "origin": [
+                    47,
+                    74
+                ]
+            }
+        },
+        {
+            "id": 150559929,
+            "classId": 6539306,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:30.455Z",
+            "updatedAt": "2024-03-04T15:26:30.455Z",
+            "tags": [
+                {
+                    "id": 108100488,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:30.455Z",
+                    "updatedAt": "2024-03-04T15:26:30.455Z"
+                }
+            ],
+            "classTitle": "asparagus",
+            "bitmap": {
+                "data": "eJwBUgGt/olQTkcNChoKAAAADUlIRFIAAABMAAAAfgEDAAAAtOtlzgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD6SURBVHicndPBbcUgDABQWznkyAhsUkYLG3QlNugK9PSvuTWVKC78QAyJ86ma01OEbWwZAIAV6ocBTCUV4oZkjc2kiOQLCWg1bqejTT+50GeloW8KOxURRe0zJyYmknoyxR3Uie/7jWZmPvxR7tkwxT0KNVMxU4qvwlz6SmRCw6XjVmiYWqQacea8ExNFpsoSzZGspRapKLzm3DJWTjekSuxo+UBDJ9KLrM3dDILnd8ujjWXMyGEySeDS/bUjuhH9hShu5YnbhVPPIDK+Yn5nNKQV6c5UJ+7NqZ+e6//oL3n7amUOKg44x2M6GJrl+QMHy9MumvGVbxrgF5nvs+I9FT+wAAAAAElFTkSuQmCCoKmSJw==",
+                "origin": [
+                    150,
+                    79
+                ]
+            }
+        },
+        {
+            "id": 150559930,
+            "classId": 6539310,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:30.456Z",
+            "updatedAt": "2024-03-04T15:26:30.456Z",
+            "tags": [
+                {
+                    "id": 108100489,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:30.456Z",
+                    "updatedAt": "2024-03-04T15:26:30.456Z"
+                }
+            ],
+            "classTitle": "cilantro mint",
+            "bitmap": {
+                "data": "eJwBgAF//olQTkcNChoKAAAADUlIRFIAAACDAAAARwEDAAAAHipmhwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEoSURBVHicrdOxbcQwDABACi5UKgME0A/yiFZ6IE06aoOs5FE8glLFhWDGlGy/SHbBu3oc+CRFUQDgKqhvokWJp01JoM0ZmbIQJMJZC61CiL/ZiGhgQy1fLEUk+jRyMwKmPOCWhEyAxQuJM1Yn8kSimh+jpD1x1pWkTKSLf7NUHSIkNBlnH40kI2iE/iVo+vGkTzH9kh5zSVpuQV8gnyyDlj3dmDtxN36MQ87ix1RteXhhw7wN4vYGcAk5DlKBylEW+7/oh9bQ1y+xtwuosUu45FxIR+ecFj8KthU+Tki9c66DXcoZA6c8jjyVI4WsQpyQN+gXUHgLrhHELuH5iFJvV0kWo0ytnb3AKO2mP4Zhm8dixD4oI+5FAvY5o1kirO8SIKkIgPv16w8zKF3vs/H99AAAAABJRU5ErkJggoVxnX4=",
+                "origin": [
+                    37,
+                    71
+                ]
+            }
+        }
+    ]
+}

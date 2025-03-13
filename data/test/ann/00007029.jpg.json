@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 150562860,
+            "classId": 6539236,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:23.876Z",
+            "updatedAt": "2024-03-04T15:27:23.876Z",
+            "tags": [
+                {
+                    "id": 108104373,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:23.876Z",
+                    "updatedAt": "2024-03-04T15:27:23.876Z"
+                }
+            ],
+            "classTitle": "milk",
+            "bitmap": {
+                "data": "eJwBvQFC/olQTkcNChoKAAAADUlIRFIAAADZAAAAZgEDAAAAfOymlQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFlSURBVHictdaxkcQgDAVQdjZwSAkuxaVBaZRCCYQbeMwdZ2MQ6H9vckrf3H5J5myMEZW9QbXkfCBz+bc+um35r6Jm73yVFrtW1GLzXXOsbZiD2upVabCls7zrc1wl7SVsCF0lylBpMvQ9oAi1I/ah64h9qBuxDx2tD5366UOXGVvo1E8fus3YQhW7D8tLw9qR0k87hFbDRPq5T5lmdRa1n3p6dcxws6U8nqSi1TEwjOiZlEp4B3ULTsed4YG3l88tgAWdg4IFPWDA2zvRIoxPuCJMeHsnOoSfJ0RWEG6vPBa4II4H2V5BCzE/4IrRc9z+Bx1G8lDKEvAf7gwTw8gwMPQM2RE6GO4ME8PIMDBkr4udYWLoCR7Pbz6rY2Av8S8+HPqRr98j9X/QG/xZafclN2O7Llk0CPhd02pDg6j9hg7phWfcgxco95uMLDHqYGLUOGI3zXjnExoUrOo1O3XOu3W6uv4Awbn/3IjuZNoAAAAASUVORK5CYILbDMZe",
+                "origin": [
+                    144,
+                    235
+                ]
+            }
+        },
+        {
+            "id": 150562861,
+            "classId": 6539238,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:23.877Z",
+            "updatedAt": "2024-03-04T15:27:23.877Z",
+            "tags": [
+                {
+                    "id": 108104374,
+                    "tagId": 31481,
+                    "name": "nut",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:23.876Z",
+                    "updatedAt": "2024-03-04T15:27:23.876Z"
+                }
+            ],
+            "classTitle": "almond",
+            "bitmap": {
+                "data": "eJwBQAG//olQTkcNChoKAAAADUlIRFIAAACLAAAAPwEDAAAA6oyp3wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADoSURBVHictdTLDYMwDAbgoB5yzAgZhVW6SRgtUheJxADlyAHlb0rI63cPVaX6hD6B7TyMUiluu1J3NYSOajpGMngrkU86hEWwgrYZC9GeSIeOZhwOHvtAEXgAA6V4ok/nkMMXmFBiLXarVAvoRmWhRpJtVNbuGoELonSme/KcqlCfCnkzesFGvZfGhuy5CzPSImkN1APOzZiJoiRQp7mAIP+JWL4mkSv8TvN/yUoykjSTp6PFeWwkUYnzOOQNCHwLr6vp+Du6FYGnow6bbVJHcuiTRqabW8cv1Qr9cF8VvGKj3076drueXhIrAJ91z9FkAAAAAElFTkSuQmCCx9mEpA==",
+                "origin": [
+                    307,
+                    64
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 386,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150567766,
+            "classId": 6539224,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:20.659Z",
+            "updatedAt": "2024-03-04T15:29:20.659Z",
+            "tags": [
+                {
+                    "id": 108110047,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:20.659Z",
+                    "updatedAt": "2024-03-04T15:29:20.659Z"
+                }
+            ],
+            "classTitle": "french fries",
+            "bitmap": {
+                "data": "eJwBygI1/YlQTkcNChoKAAAADUlIRFIAAAFrAAAAuAEDAAAAH1VfDgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJySURBVHiczdfBbdwwEAVQCTrwyBJYCltJCemAuqUtlkIgDfDog2EFAdbicDXk/L+2guhm+EEa/hlpyWV5XOEYXGXRrjji+Tt4GvFd036kdT5cqc6HtRya3oZa5ePSP7jSSf6u8fhd/I3LkeRV40Ot8pXjk6Zq3HM8cnysNT4pXeOT0jWeOD7RCp80SeOO45HjM33l01qufKovH+C5fuazAVC453jkuKGf+TzGazKJ43LAfv02uVjs+5ovz7pw3//L4n+v7Sjp8ZsYAa4+DOJPyWaDbxxfOb6QPHE8ctxz3HF84/hC8sTxyHHPccfxjeMLyRPHI8cDxz3HHcc3jq8cl0kiPHDcc1xEUwC+3cpXjosRrghPHI+vcnVD/nwFjvtbeZsC9ajyRb5xvE2Beir7Il9I3obmDh5f5TvCw6s8I7zNWLmBtxmrHIcGnhzJxsmRhNoq+I74xjPHC8LTq7wivE0w1KfGoT61CYb61EYSCl7wAnDx04oUL3cdQDWSA9XITQpSzcFVkwSvNo9cNYGrxh9UNd0+256b/ghiVtMf5rJ5+44Xk8vggVdKBg8k3yVpR9Mf5kz+L5OsJv+vkuyjMTl7zu2KL1zxlSse+MzL5MmvAfCZ74Zy53g2eTeUxa6GXGu3WIB7jjuOy8XugCd54njkuEgyA9xz3HF85Ti75WtJFu7uCCdP6SQXH48KcHcrF0OAbFcFR95twZHtKslD48i7LfkO8UiMZDg+zgcUiJ9zUCG+hD2ifQqP/CLG/WczI9RW/3lPB/XJnwtMSJ/cGZ/DeG4P2k2+NbMiXKzP5yE7uUhvBbjszQ+bV5N010/5xx/HNJcxizUXggAAAABJRU5ErkJggk22WYU=",
+                "origin": [
+                    61,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150567767,
+            "classId": 6539268,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:20.661Z",
+            "updatedAt": "2024-03-04T15:29:20.661Z",
+            "tags": [
+                {
+                    "id": 108110048,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:20.660Z",
+                    "updatedAt": "2024-03-04T15:29:20.660Z"
+                }
+            ],
+            "classTitle": "pork",
+            "bitmap": {
+                "data": "eJwB2AQn+4lQTkcNChoKAAAADUlIRFIAAAHsAAABVQEDAAAAFyFOngAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAASASURBVHic7dxLbuM2GAdwuR7Au7AHKMA5SFFepUeY5SwKUEfqEbibZa/AI2jpAoFVK3YyevB78R9WnjYEEhhBfpa+FyUBhrvucwetLxj/ev35o56fu9M4plp9OI/Tmv3l1ycDP73oMX9/v9EbzsXd+Hn5h17Lw/i2Lp27HtcvT0ZYcSytsww5/ozxC8ZHGbK8x3hS8rJWV47g2soRXFs5gmsrR3Bt6imeMJ4xrkw9xZWpp7gy9RRXpj5SPGE8Y3zAuK5yJNdVjuS6ypFct93RPGF8wLgq9YHkqtTTXJX6ZlxVOYb3GE8Yz+25p/mAcU3bteOarm3HNV3raK7p2oa8x3iS+akdz7vyQebHdlwxMyDnYlfMTEOuGDmQc6lTjBzI6dvKUTWxDXmSeWzHc3MeGD5gXDFyDbli5DzDFTPTkCtmhuU9xhPGs8gdxweMy33DcrlvWC4XnuVy4XneS5y7TigKz/MscfY6IVeO53LlWN68cvzZ9xI/sDxhwWeMyzPHcjn1LJdzF7HgeS4Gz3MpeL7uYuX5iRV3W4kLQ+cELuQO5E9Y7ELXoTwLPPK8f2geHpmnttzzPO/Kh125tFe6ply6Q9iXC1step3oMZ4xPghn35ZLffMv8N+x2JkEaDjTPFFx8uMQMsKnVX4DBb+3VtELfBq54/eXmxVk/jqVyc6npLvZWxn59EThX18XWtDT8sZ/mh3BzvPTrLO2h5f45bf5lrDhTuDjZf64tEm+zOe76WDm47fZ603w0k3xcr03558j12vTeDa+qZyRrysnXSdWa105I18Hb+Sb4I18HbyRr4OPNr4O3sjXlwwjX99vBCNPGM9L7o38lvrPtfw2s0P3cx1/Sf3x7P+8cWfkL20bnsNQyfNkhljLz9MekV6717bZ3dflAPHxbXaMu9V/ioOpA7nblftducP4voUDu67WvxO3XuHfl1uv8Gsed+VhV+4x7j74/5LX7XYPwus2u3fjGeJ1Ez/j/kfm7kfmNW074zVXyRmvuU7Nuce425VXpP5xeMWGs+B/YdxBvCL4B+Lu+lzuIN5D/NkYwJJfrPEvU3e2tt6CH3flh8G6YS54lzvjY8WSdziPu/KAcY9xU9duualvttxUuQIPGPcYPxl8gR8MuS9wS+5L3DCzJW4oXZFHjAeMe4w7jOsLX+T6wrfg+r4pcn3flHnEeMC4x7jDuLpvylxd+DJXV47gEeMB4w7j2tQTXJt6gmtTT/GI8YBxh3Fl6j/4B5+v498YTxBXDg3NPcZVyaO56uwZ7jCu2S4ZrtkuOR4x7jHuMK7IHccVuWN52JX7XbnDuDyzLJdvzFkue56/jg25b0r8dnyyAyTe+YsbE1kDkZ+yH+npEfn1+M90DhU8gHz6TFY9jyCf/idW85ePswE8deTOoeWuPva+I2dXwd30i2g7Bb+HgPE4lt4ia/m0tulPFr5Nv0VvB0f9JXllrv6KvttCEtdtOt+o31J/qoj8un7pTpfD9HlWXxH5ffn+PgLqr0ZcrE/TL1PHFk7B8K2QheXuZ/4PvacdSLW+1jgAAAAASUVORK5CYIKr4oIt",
+                "origin": [
+                    20,
+                    34
+                ]
+            }
+        },
+        {
+            "id": 150567768,
+            "classId": 6539303,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:20.662Z",
+            "updatedAt": "2024-03-04T15:29:20.662Z",
+            "tags": [
+                {
+                    "id": 108110049,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:20.662Z",
+                    "updatedAt": "2024-03-04T15:29:20.662Z"
+                }
+            ],
+            "classTitle": "cucumber",
+            "bitmap": {
+                "data": "eJwBgwF8/olQTkcNChoKAAAADUlIRFIAAADBAAAAzQEDAAAAO06GpAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAErSURBVHic7dY9jsMgEAVgkAtKjjBH4WiTo+YIKbeI4rX5ySbmvWYWeSMtblx84jEzINnO6fr23KS8L869w3qnsqYm/ijrb2QxSDBINIgYJE35aNEpg4XAlCkfI3qSpKEiJ0kcKpavMxfL/wEXyx8Ku1abqEESFaESqZDBbUKGsAlpdRPS6i5qkERFqEQquNVdcEO74OKywI2ywLgsMK4IiiuC4oqgAVUBcVVAXBUQ16SfXZM+rkl/GZ6iVLqzfZVIJUz5R7IMFX+SuL8XPUnSUBEqkUowyELFU3FclEqiIgaJVAKVxSDeIM4iapA0VIRKoOKpvJR9FKESqHgqPxt1IlRihfsRnlehW9JK6Je0Y70BycU9+rB6EF8ASnFXJPt8HghyCWiXvFHJ+ga7U7awGTNJmQAAAABJRU5ErkJgginLn0Y=",
+                "origin": [
+                    319,
+                    0
+                ]
+            }
+        }
+    ]
+}

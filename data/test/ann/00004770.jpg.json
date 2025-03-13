@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150560279,
+            "classId": 6539229,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:38.477Z",
+            "updatedAt": "2024-03-04T15:26:38.477Z",
+            "tags": [
+                {
+                    "id": 108100838,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:38.477Z",
+                    "updatedAt": "2024-03-04T15:26:38.477Z"
+                }
+            ],
+            "classTitle": "ice cream",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK2QGzCyAwkmRcvSgJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Ez3dHEMqZjTe9GRi8mQh/XCFcF05T52gWdSejJVhguLt8gtdX+xidvTx2eV7uIE88oPkx00Dgi++cnVFSWr6q2RH7DmO3NfXpfiZS6BFRWTRI0V9z6a/FiLuZqvU87IfLvDQRXf/A9KEqyFzV/Yi7ofWntxX1f873ZptfSRrq3OG4pZbhwO1xG9zmZVysf2bpv+JwtNpj5R9qN/NzWrH2Y/JLy2d/VLoBMZPF39XNY5JTQBAIdFVSs=",
+                "origin": [
+                    106,
+                    51
+                ]
+            }
+        },
+        {
+            "id": 150560280,
+            "classId": 6539272,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:38.478Z",
+            "updatedAt": "2024-03-04T15:26:38.478Z",
+            "tags": [
+                {
+                    "id": 108100839,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:38.477Z",
+                    "updatedAt": "2024-03-04T15:26:38.477Z"
+                }
+            ],
+            "classTitle": "lamb",
+            "bitmap": {
+                "data": "eJwBeQGG/olQTkcNChoKAAAADUlIRFIAAACFAAAAZQEDAAAAWVCy/QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEhSURBVHicrdS7ccMwDAZgKCzYhSNwhUxgrZJNqC5rMZuoS6vOLHhEbFEP4ocjK7mg03cHgJAIEdVwfAtqo1fCKEaJUzKX4aGRgNIxilXilQSUpUwjVslShiMm7eKVBCXMQN2RjFXMLklJDgNULkteYMw7lnxCyiz9CfFKnBIrxeRmiirMIFYKPxJ3QjzIIEaoEk4IP5X4TzL+SSaUL5AUPkGiG4QUT4aSkPs11SKycpUghd6ViMtTlCxr4cVMj8X9Ut5wl9b/jzrPfuhywW0vrwRLWV5w3fMKWyEtiTDrQLafxPSzmBOyLU9UQphVlCQlhLLPuZ5wUhJ3Iei0vp/USn+XsRUve1P9zlmI5Wvbez7ih+h9i4stBGGSkhGlG5qHb1YGCrLykuqIAAAAAElFTkSuQmCCv2ecyA==",
+                "origin": [
+                    0,
+                    42
+                ]
+            }
+        },
+        {
+            "id": 150560281,
+            "classId": 6539317,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:38.478Z",
+            "updatedAt": "2024-03-04T15:26:38.478Z",
+            "tags": [
+                {
+                    "id": 108100840,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:38.478Z",
+                    "updatedAt": "2024-03-04T15:26:38.478Z"
+                }
+            ],
+            "classTitle": "french beans",
+            "bitmap": {
+                "data": "eJwBkgFt/olQTkcNChoKAAAADUlIRFIAAACYAAAAWAEDAAAAM+Ss1gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAE6SURBVHiczdTLacQwEAbgET7osqBrbu7ESjdpIiBtJylFkAK2BZegkItCFk/kx8h6DKwIOWRO4mPR/DNeBEB1gWcoa3AjzJWNQdvKvFnM1ZeGsYYAT/GobGYywLTe4nYSm3nQ8Wxyu+2Gc2boX81bPLrsvrXuIJF6jIRWJZNks0aoLYZvLGBo7BvThC+YKm3CnEZt4aTUdmYsnJSiLK0J7LPhF0ZZZG6Ws0trbmptXsqvsdbn3kUzZh7ZB9YbJROFfWEz2jGdZEx12siYZswwhq2JTqvHQGYMZCIjExmZeMjEQyYKMlH+mXGZ2Xl1x+8csxfLW5HFbNdNKrdxfZ6qrvEb+rqr2K4r7A5iqdP55rVBeg6bEWqz9LjITsuGI0qLfl/HoqKm2rem3GlHbDecRKux8Ed2/POT/QAPBFGm3Rv+WAAAAABJRU5ErkJggrIntgQ=",
+                "origin": [
+                    47,
+                    94
+                ]
+            }
+        }
+    ]
+}

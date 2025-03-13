@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 360,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150569316,
+            "classId": 6539258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:38.802Z",
+            "updatedAt": "2024-03-04T15:29:38.802Z",
+            "tags": [
+                {
+                    "id": 108112510,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:38.802Z",
+                    "updatedAt": "2024-03-04T15:29:38.802Z"
+                }
+            ],
+            "classTitle": "lemon",
+            "bitmap": {
+                "data": "eJwBGgHl/olQTkcNChoKAAAADUlIRFIAAABYAAAASwEDAAAAzhnSQgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADCSURBVHicpdOxDcQgDAVQohSUjMAojAajMQojUFJE+ACDbaKkiI7qFbYTwbdS/Ri41DwnACyb5jTtmlcRABWdw5HKV4MbzlwOpfNA126NBm4FCM12ug/104nGjKGHsBZeY/rH7Ivdky/+1N3w5Mq/cPNJhs36D5tH18+2H+3I14sLX9Wr82Zie192EN6umXuLcBZPl4SjeOogosHJwwx7GknNWcQwCUcRVcURrhh/T2PmoMibU8VG5bVSHjOOx+JC/QB9FWuK11+XVAAAAABJRU5ErkJgglfTeAY=",
+                "origin": [
+                    235,
+                    171
+                ]
+            }
+        },
+        {
+            "id": 150569317,
+            "classId": 6539299,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:38.803Z",
+            "updatedAt": "2024-03-04T15:29:38.803Z",
+            "tags": [
+                {
+                    "id": 108112511,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:38.803Z",
+                    "updatedAt": "2024-03-04T15:29:38.803Z"
+                }
+            ],
+            "classTitle": "ginger",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLRQOzKyAwk5VU4DIEUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOYc8XRxDKub0XtrIe0SBhzVAmeuUdGPgpjArid5AI6ZUriP7GRj/a0/oO+VvlCDt8qsosES2U8CI8WpCKqOcJ+OZMxcK8gOfJbLcDryfJDGf74KpsPKx4J2eYQ83VX8Ued6t/uBu/2rG/w9uKOUwNgUuiY9wFVku4HR30ZqTPdaiThnF36cs7bA6a/iyeduaMqGFHIpCRvbs+3NT7/Sc2SHx2ZnVas1iI6PkY2tbz3hw14XpJFtVr9lxdlagZCrz7ltvdoi0rRO0NP3DxP1h3Y3i4PnZQN8weLr6uaxzSmgCAFgiauc=",
+                "origin": [
+                    149,
+                    223
+                ]
+            }
+        },
+        {
+            "id": 150569318,
+            "classId": 6539304,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:38.803Z",
+            "updatedAt": "2024-03-04T15:29:38.803Z",
+            "tags": [
+                {
+                    "id": 108112512,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:38.803Z",
+                    "updatedAt": "2024-03-04T15:29:38.803Z"
+                }
+            ],
+            "classTitle": "white radish",
+            "bitmap": {
+                "data": "eJwBMQLO/YlQTkcNChoKAAAADUlIRFIAAAHYAAAAZwEDAAAAmfzBzgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHZSURBVHicxdgxloQgDABQ5llY2m7nUbzZ4tE4CkegnMJndkeNKAZIQjEp5/FFIAwRYzQxeRX7jw7gracADRScym4UgoYOu1UNeKew6LuFVU57wGigMAvpK1JwPzJrL3b9FdERbiGh/Z1KUqtLKHi+TakgLa3eTg/KTunhSbkpnU6xwJKUtx1oyrIZyrE5yrCPdIpRtXlatVZvpwIt21KnJfsqO8jPc2F2a7beKeTymUUpO0BgUWr/8iBQ/xsj2/qUZjP/GQ6NPV6BT88Tqd+fI5AxrUaR2mKJrywOnGZeMtB2VFhcIgVFOzRYq7eczfqMPa0mvdUs0GEF2X+LWbc8zVaZFp9Yv2SXBvtusOFL1jdY9yU7N1jtXxUcB7fSLg02NFjfYGe9XdVHAsgP60u4Bqs/xvDcVlmvt1iVaazRW6e3WGjU7Zoe7Zfy1ZIixpxWMoZt17QucHz7TtoEw7dbFsSXvtfqFbvt07M0SD4vynZvfA7YSOyefVjNGJH11ySYZfZYkenyHLY9Go0g/6TBeR2IwdYsLmdP394UbTgadfQlStFiZy/6W7doHVont6SIMRZo7QajVD1Xb3ss7ULNES/tP791orspZ1kdpTFwRpYLK79dPaNTyj8BwZjh4rLAtAAAAABJRU5ErkJggsXp+8o=",
+                "origin": [
+                    16,
+                    93
+                ]
+            }
+        },
+        {
+            "id": 150569319,
+            "classId": 6539315,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:38.804Z",
+            "updatedAt": "2024-03-04T15:29:38.804Z",
+            "tags": [
+                {
+                    "id": 108112513,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:38.804Z",
+                    "updatedAt": "2024-03-04T15:29:38.804Z"
+                }
+            ],
+            "classTitle": "pepper",
+            "bitmap": {
+                "data": "eJwBTgGx/olQTkcNChoKAAAADUlIRFIAAACGAAAAQwEDAAAAY5Lv1QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD2SURBVHicldQ7DoMwDAbgoA5ZKnGBSrlJuVilZOu1OEqOwJiB4iaQFPs3fXlCn4RfWBhTo6PRyOhpAvE0SzgRkRSXJcBLIOUlWcwp8SgdodhVIpNBCaGclDglnqDWVpuLVVLT5EmJEk+zxsy6qcG6Ycl6IZEl3sULmTBxkU5KwlJFrJL+B5HtlMEGWXzGBsMNxVxAFtzXdjD0WY53+kUWJYl/4m0GJVFJQFn4feWYfRKnktO6NTFb6mhHlC6g1AP7TwKc5ZG00x3ey9LEP9pYTSh5oruQacjLdO3+i0ST61rafyQ+1P3v0tp6ydXUxb3k3HqP9eEJnXCICZTLuswAAAAASUVORK5CYIJqdJV0",
+                "origin": [
+                    78,
+                    191
+                ]
+            }
+        }
+    ]
+}

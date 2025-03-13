@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 467,
+        "width": 350
+    },
+    "objects": [
+        {
+            "id": 150562817,
+            "classId": 6539297,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:21.173Z",
+            "updatedAt": "2024-03-04T15:27:21.173Z",
+            "tags": [
+                {
+                    "id": 108104330,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:21.173Z",
+                    "updatedAt": "2024-03-04T15:27:21.173Z"
+                }
+            ],
+            "classTitle": "spring onion",
+            "bitmap": {
+                "data": "eJwBqwFU/olQTkcNChoKAAAADUlIRFIAAACJAAAAcgEDAAAAXb9gUAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFTSURBVHicvdZBbsMgEAVQEAt24QgchaPBDXqkchRLvYCXXlimmYEkA59KNKrK8ikeD3/AilKPZQ41LF2AXDkXKCAVIIcUgXQBMktkkdwS+ZH0CUTFB/JIEUizdKnaJZo82Mp35JFqsV2SQdJItX5PAckjUahlW6KMtSaUZKc8jQsq9buucckXtgQTUFdK4xTVT3T8Ie0dTZJ/myYjC9hEwD16CKcdrwllpNPe32BTpTohasSVkV5D+T3lf6cNqYVrBR1ILUlT4GdaUt3lhAySXSH3AVTKSA5JthmZZFMpMBkk2UHyhY6Ll+SYgiTL6USkriXDB7TvkiOURGX2kQJNrSc30EXRZaIvQbzi9dzl44L4rdIWn3RrWeQorpF+0PEehZ4+mXZB1z3H7OV3rhxErqONyMhLGjOR6oiGlVRILwqK6abk8sMHgOkaSeMfAKXEJ+cbBqSHTZaLAXQAAAAASUVORK5CYIIpubNU",
+                "origin": [
+                    20,
+                    154
+                ]
+            }
+        },
+        {
+            "id": 150562818,
+            "classId": 6539304,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:21.175Z",
+            "updatedAt": "2024-03-04T15:27:21.175Z",
+            "tags": [
+                {
+                    "id": 108104331,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:21.174Z",
+                    "updatedAt": "2024-03-04T15:27:21.174Z"
+                }
+            ],
+            "classTitle": "white radish",
+            "bitmap": {
+                "data": "eJwBwwQ8+4lQTkcNChoKAAAADUlIRFIAAAESAAABAAEDAAAARedr8AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAARrSURBVHicvdpNjp04EABgI4/Gm0jkBlwji0i+So7QJ2hzNHa5ho/gJQuEAzbY5b+qmqg1rN5Lfw9XlU0ZUIQYHMqN/pKOyfuNMsr7nTILwxjvDzoc0sjLnIRRDDNfxhNGM4y5zYobTxvJMIphZoZZGEYzTEidqI+nTUwdny/FMDF1fP0sDBNTR9fz5GkTh/KOPg1q5BcZ9RiLmJlhli8yhjZveTDzpoX1sYVhDMN42kiGUQwzM0xKC7lMDcN42kwMIxlGMczMMDn1cWsxDONpMzGMZBj138yw1f2fBuQ1bJnAOIaxDLMxzIiAOUV2C02mBdahG5sUkB2bFNCKmDcghLwBoZvgxDf4JhgNflNnqPKINzGLmplhFL4ywsG5h5rIMouYPHX/aBhmIcsck6funRXDSHIqYvL2C4wgp0KEAnHMShkdpwt10UzoeEuYrsliZg7TJR3DoPOhwnQpdO5VmC6FriEZzIyuVxmma0YLOYWpWPAJYZl7FI0vkGAMvhhDRsSi/owGLeJtJuJC/BkNWsQfIl5BK2K+i3glbtiJHmMJMzOuVk730IwupBkdz9DdVTC6tGDsCBNj9+E8Ekp6x3xvcjbMzPQO/hqHmYWxrWrG9sy5FTCeTuwhrAcs5DpMBkks35eNDeepJ5tx0HMybmiWZMaJcYxOZpy8SSbM6j+4CQX6RphVhKb10Rhfms/eKz5gtvvraqL5zAQ+0tj76++nlmBdwkcaF7/utZmB2eGdDDALMEf82hhdGp0MWE6gPHeho5lKUwT0GhWKIH4lVDyD6jDkIsLulwsuW2Nu4wRYLLU5QywXBanlsLdopgtf9Z9A2LoyXkbzG+xGSzVW+CDjb9rsgQnZ2k7yadw9/tB1ks+xHUukjTnL6St62/tPR208x+TkjX8j/RuzNcYxjG2MZZicvLlPGV+vVyZX8eMpZcfUzW1eO6bTSaOpLoSeOQrTbEgm5gdfWjR90sQQYKdo4g5mLTpOE7eJUVbG94yozFmbU5StIsT9UZqjY+olsHeNL4xr4/EebBW3sX2TyvSYOvdiNBOj65s1m1VUc1GlZuIp+8Ymcw6NS+bOUXXNnsw+NEcyTvxbrMOe2a6tizKrPIudJh9nMkKT5ry7N2GO6TKaMIo2+/0cabrGJ6No427TJ9nIazb65ISmP+15Tt10h9090tpwwp+6bywwo2PNxoyMoM0BzCCa1M8w44BZBmZLxg4Wat6oEJN6makbbz5Ab9lGZodmMKMWmn5jyXuruT/iIUdj0HCi0Wg4lxGiX2hRmrlDjsr0CuQq0yvQlk18Z4Rl/phO8ntj2uQtNCH+NnnRmCb5ozVN8q4wIbgm+a01dfLlrcJz1ir5vWeqoG1p4tdqsLVnyipWD2ZvBkVmtjLvac1wqGzm4VDgyWP83Np7EqqIOFrTPJICowdDwUcTPRhKuPzRDIbqmK0xtjadVxrgV6OhWtMOBd/8jk4DjmkQTWNW3Mh+MLVxBBGS/p8xxEvgx6yDP/wBdSJdRol6TvsAAAAASUVORK5CYILINTpv",
+                "origin": [
+                    6,
+                    108
+                ]
+            }
+        },
+        {
+            "id": 150562819,
+            "classId": 6539321,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:21.177Z",
+            "updatedAt": "2024-03-04T15:27:21.177Z",
+            "tags": [
+                {
+                    "id": 108104332,
+                    "tagId": 31484,
+                    "name": "fungus",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:21.176Z",
+                    "updatedAt": "2024-03-04T15:27:21.176Z"
+                }
+            ],
+            "classTitle": "oyster mushroom",
+            "bitmap": {
+                "data": "eJwBnANj/IlQTkcNChoKAAAADUlIRFIAAADtAAAAsAEDAAAA2ZN75QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANESURBVHicrdg9stsgEABgNCoouUG4SbhKjpAyRWZQl2OFm0RHUKnCY6Iflt2FZf3yHBeJrO8h9gdk2cbwl1uM9spJU5d3dXB+KjrnnBW2ByuTu4PXMfuDldjCwQ+dldBjVkM/NS8jnXSeL06fZHvxOmJ38fZJ9hcPq/qCw0d42JOoc1YvfhdtmJjT+Z56VNS7nYOWlCvL/Q45a0xUWIozYSFtS1gI3OtTR3VqGpnQEBrZ9lZkSY3svZoJgTu9pBBZimJeJx//fTtDFPIKMCiIeQVIJ4h51ftsEBsywSWDvEN+1lnU23UYb/2bVzbppvHUTsW56w/j/pOBse2azyJ33cpiHLp1yTh23WfcLw7Ks8TYEttzJJk6kRMN/J5r2pE38qflnYf0I67zqe7Hqc4RscxzZV9bE3EL1o+VCTceCbayxW1L2AE73PRkD3rY7B7HkB0cYLMHHHOdImmfHHEMXNCQs7mOmSAcOLsKvOGhYXxXaq+HW+Un8qNWxXC2/BCzWb9iKa4CO7i2aXO9MvOU7wP4JFoL1wxX0qT7j0M9G+GgTH1lFmn5VtIF5AXObowfJd6bHXAJvDbCQEQdT8hzy/kuLyzp/Edk2BvfPZavVNUSNmHnnEjJX3NseCUlFzlQpsv47knIZKcXjsiR8FQYan6khCU/a3BvAg/8YOwKu8qk5OeoJxSfcL1Z18+fsBwh/TqYdoTdzfJZ7qelnNltHRg6MnecHWHbsycdcZzPi/0mJfc9Z8JB5oSBS7zcb6cB07djtg2XbQwldw0baCoGzj4MI+PYsi8rhlwrmXb4RnmlbD/AK+XUcaK8/CsvhK3p2CBvRmXT8xOZDv5h6M364pUMfBTekZPOJCt7zulotOzByGbTPM+wBzx7Xsoz3iWu8bC87Hk+0Co3vNFbfcvXIylbmw0/DLtzGLZSjpxaToSPoJeZs+HMVrkx7GkydPyQGEu1S4zZ0LzqTRnDTRIv9cwisZFfhUc/PeTcTS5dfPBdNVTeJPaVxe8Q+L1NjI58t5J4Ql4kR04S/6/MRMbMxMRnnTEzsS4v2LzHUWercy3MaL1BXQdsXvCscwlvyFd42g+IQecXPz/WB6VheDqbL9e/fwEqK33YksG3iAAAAABJRU5ErkJggromtu8=",
+                "origin": [
+                    8,
+                    111
+                ]
+            }
+        }
+    ]
+}

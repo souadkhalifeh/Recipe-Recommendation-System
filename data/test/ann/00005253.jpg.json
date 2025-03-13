@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150566031,
+            "classId": 6539285,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:40.848Z",
+            "updatedAt": "2024-03-04T15:28:40.848Z",
+            "tags": [
+                {
+                    "id": 108107856,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:40.848Z",
+                    "updatedAt": "2024-03-04T15:28:40.848Z"
+                }
+            ],
+            "classTitle": "pasta",
+            "bitmap": {
+                "data": "eJwBWQSm+4lQTkcNChoKAAAADUlIRFIAAADkAAAAzQEDAAAAkjpOMAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAQBSURBVHictdhdqt02EABgGQfch3Kdx765S8gCAt5KVxIJAnnNEroVQTeiriAqeXHBWNHod6SR5jYJFdzLPfc7Rz8zY9lHQpRmBNOWh9PVKVa5rjd3Mbo7buDDOV6ZaZ3O6blKx03aq52re03nPS8/oavjVpR0UZzu489vLkRShrFJtkA/+R4sTJDo7nUzu7thjHuoDyRZTnR3X3ySR+rT+8A7nPJKqqSoHumZ9fZKasjrfbjcVKeyUUP1qtpPGgqnaj8wdHe6WdedtpFe0krHXRPVWNcUw9IsUcepGOpiYmmMdb+DPhP1QQddsJYFbz4yu4/tWKEG5yrkA3pN9HBQOLrRmsPN6SMWMmooFObwS2jV1PT55JlOa9fSUq1dy+v0Keu0dH06SbWsya/H69aqw6qI6pKHkV5Iybil6z1MkajOoQRderVVLavO/fNDGufzr//ZWFVipmkR51zhH3OF6Mmp3gJ13awI2pMyNlbHq2bVdPq2Udvp+0avTj/E7NclNSoVVtepnyZW1ejif6XXjwxLwopqLWzBJlb3QdSsYdIAqdTwakLqb9DbD3iCohnFOwv88quWH1t94ouww/g3qgNHFRSG0VFXvWhUCVlN1CVcJ9k+QxBh0jaq+EOIcnlc4rzjqyvp7yi1Kmy10BPc8ODPd6JMGTbhXHFJ39YChElm/TMW32+1eCGkD6pW/+cvdco2PTIeVX+t6sMisKqh7lVf5qqjyqoSqX+9d6r+q0JqFV6vkLrq1Xw2lK5p9KXTq6qP6psaulDYd9X0tILVMbo2V0mjV6gDdJUoqrbuN6Hm8pvjdO9aoQN1VQ3WdMn/ldHZ96KpujJkaF8fTl2nslWH9KGq6rXwCNFhWFO+Uuj9BqsmCivOm4oh9zmL1BK90PV79/fX+FjQ/7NV8pncHlYdr0o0e913qREkcZ1OsdueBzqfcrc9D/SY6/Wanv+P0hrvVLI9/7BaVg2XoldUs6rYcRUbDcHl6GbLGV+DtGl0DQ6HnS/pxpvdcNh5UZqfUM2Oq1htbgzfp+mWI8d6s5q+LEyGtazGYMxypFmNwYjZ/5uoQEpGT8vd4gRlpzdSRSJmUc9U45TjnGm0hajRIHohfYiarHKkKus52noyxifeqe54U8vfzItuWK8UtKJLCMyZ53q06t9tS/1oovDFOGv+6lB1R5qygk57Vgh51PR83RzJyKL58Qufqqwqa350s6JtRY8mCY3apLrTI+vepKjGM/a4tcuNbcm6uMHhVlHRLQgpzOYcnFOuRffBWePq8lzXwVljVTE4eUUq6antVsYVBznpw7qRKWOlx5uLK9EYNclqydGwbawuua6Ygadn2wf72cDcqTl7AO1Ta7p/fAMnH5x9thi9zgAAAABJRU5ErkJggu1YO2I=",
+                "origin": [
+                    28,
+                    11
+                ]
+            }
+        },
+        {
+            "id": 150566032,
+            "classId": 6539294,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:40.848Z",
+            "updatedAt": "2024-03-04T15:28:40.848Z",
+            "tags": [
+                {
+                    "id": 108107857,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:40.848Z",
+                    "updatedAt": "2024-03-04T15:28:40.848Z"
+                }
+            ],
+            "classTitle": "tomato",
+            "bitmap": {
+                "data": "eJwBwAI//YlQTkcNChoKAAAADUlIRFIAAADfAAAAsQEDAAAAfsn6RQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJoSURBVHic7dgxstsgEAZgGAqaTEj5qpAj5AThYpnBR9NRdASVLjwiC0iAgf3tUZXCFG+e9UlisRYtWIi2/RWgPYBJFn8Joe7cVStAswihNwYtQnejqzn0EVcGA6FlUAbxAh2DKuHC4B6DuoyBQU0PRCP0cazT2z5oNCzeaTQcSoTiTvGw+ANhHElgTZjLCPsEQ0m4sCgREl9GQWgRmrDyF9NoubmWYgbXEm4senRfFwL/3rAINUKFUCIUED1Ci9Bw+FvEsTAYD6uEZjhDpfxLaIckzk/aP1LMyzRQF/+MD86F+N6w6eUxhOXSdNEZ+/zPqA5sO/2esoBOlwe2nVJ2+Hz6gU22GArG58z7I/pUok/nkZ/5YxNuDO/Ab6LLs5jMN1fvRXm2P+HSnP6EKk6DBs0M93dQ97g1HakBzZso+6FsbUc9rgphe8T331B7xA1oW+y++HYqpEz8KgGEp6lg6AGV8p9Q1sev6d8yJ3Kgfqu45fSuaAsqGpk/MU9ofSsRUgd+L/j84pJ0WuAwdVVx49HNMBRcebSTwlFwVs7LHFWTYlVQTvG8mx9MoFqQn9Ql9Bh3Hh1CC+oP4cqjASWevm/e8ouObXAd/YXw0z7t0/73phaA3B4xNgnW0akeXsMXb0CA7jLO6uN7WBdmk01xxfGrkgXVuKCWZdU5WW2rgmasJBXtWKB0QYdwUr1MwTCibXCI1p0428mU1amc3zYHqSaFWJ+rdtUt34+7VVz7S0/UYbLZc8dCY4r2QDNDjVAiPJdF0z4pooLbgAbhsf9WaMcLEW6k8S7bo98NHPo54sXyiO9SqNb+AWZTawAAit73AAAAAElFTkSuQmCCTVBITA==",
+                "origin": [
+                    17,
+                    38
+                ]
+            }
+        },
+        {
+            "id": 150566033,
+            "classId": 6539310,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:40.849Z",
+            "updatedAt": "2024-03-04T15:28:40.849Z",
+            "tags": [
+                {
+                    "id": 108107858,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:40.849Z",
+                    "updatedAt": "2024-03-04T15:28:40.849Z"
+                }
+            ],
+            "classTitle": "cilantro mint",
+            "bitmap": {
+                "data": "eJwBRQG6/olQTkcNChoKAAAADUlIRFIAAABEAAAAaAEDAAAAcrPEvAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADtSURBVHicjdNBEoMgDAVQHBYsOQLn6MqbFW5Wj5IjuHThkBpIvm2lnbp6M06SHxTn5PHF6RM2U9pNuZqYFZ5ZSyLzogXQPFBmJmty0QR5KAx0DOP1Q+mn5oEy+v2r+Yvabvekki26IpSbir1kXbErNFQU7NCmS3TNTSvaEbQMRP1ktZYxo0uyqMgqpHWfIRESSuKn2DJLGw/pbpIhQzfIY9xvBYQ5FaEEnaHZZAkIqV4V3vUQtcbRVIMklRF1Mu3OtB2nU77+aAQtAxWTXqLUP3PXBhG0QM5Uof2iaE0OEaRNjn2LCZf4vOKeIMMTtMr0rGw1C1MAAAAASUVORK5CYIK/iYc3",
+                "origin": [
+                    6,
+                    5
+                ]
+            }
+        }
+    ]
+}

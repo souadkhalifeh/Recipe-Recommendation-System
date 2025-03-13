@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 384
+    },
+    "objects": [
+        {
+            "id": 150564262,
+            "classId": 6539222,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:52.609Z",
+            "updatedAt": "2024-03-04T15:27:52.609Z",
+            "tags": [
+                {
+                    "id": 108106087,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:52.609Z",
+                    "updatedAt": "2024-03-04T15:27:52.609Z"
+                }
+            ],
+            "classTitle": "candy",
+            "bitmap": {
+                "data": "eJwBjQJy/YlQTkcNChoKAAAADUlIRFIAAADeAAAA4gEDAAAAGxHrIgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAI1SURBVHicxdlBkoMgEAVQUllkyRG4yXg0qJqLcRSOwJIFZU+iRhG7v2hiDYvZvCloPm00Rqn1yEocNyLR7kTkBXs8jQJv+mWUpPVeo5cnJaEig9ACnJbk8b0kW7BZsI7wp8RqNw/yMnYUCqxqshRlfFbYFegqzCLeKvQl3isMVToyalqP2IymwlXyHUJb4SpcAng7hGV+9w0W+tjioprBWQ2HqQU7hJbDd/icNeE2oFZk0qO5j7j02lAjNMfRg2ib0CJkrQX5aKcegsjnPiEfbQtqHlG0LdidRnscezRtj6qFiBMKKNuEjiyjw+5RDxFEh/LzKPmAUogohYRSyAh7FBGhiMaNCtOOGzUCBpDQiIINKUj1DClIOxlSkIodUtASEtjJkIKMXjzrEa2IQc5gSEHGhFFM7zMUc78Ms3yc/4VaxoQwnsYAmu/ZYADdaUQN36OGzwjTaYwIA7rI4BUI0SEEn1876K5Bfw3CbM8jPM+P0JxG/Q8of9REcJ8b7oIQLUKDUCMUy0179+wLED4neIQOIXocygjj7oMUfBAVMCJ0AKfH2xNfPz1CNQ2wJN9+M3YMzq+IDEKNkOvN+f0HdykVL0cgbieOC24nhugRKoDwlUtGmBAWxW5TgBgQeoSuRCtnsMG+HbsDSF9Cg/b5PfQl6q9hKLFu+fMYm7FueQl/X38Si9N3iRW+W94pAX3xf7nCrAA6EdWyyoDr9luOl8GqcAnVds0jyP++8DFGCe0ehgb8A6QgsMyHsXB4AAAAAElFTkSuQmCCD1oaGg==",
+                "origin": [
+                    94,
+                    286
+                ]
+            }
+        },
+        {
+            "id": 150564263,
+            "classId": 6539302,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:52.611Z",
+            "updatedAt": "2024-03-04T15:27:52.611Z",
+            "tags": [
+                {
+                    "id": 108106088,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:52.610Z",
+                    "updatedAt": "2024-03-04T15:27:52.610Z"
+                }
+            ],
+            "classTitle": "pumpkin",
+            "bitmap": {
+                "data": "eJwBXAKj/YlQTkcNChoKAAAADUlIRFIAAAEhAAABCgEDAAAAZ7hxrQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIESURBVHic7dlLjoMwDIBhRrOYJUfgKByNHC1HyRGyzCIKnRYoediOkawIpGRZfYt/7KpT0mGljxk+p6IsSzlB5VkqsNQqqRRLaZYygsqylGMpz1JBUK08pVhKCyrDUlZQuebKC6rQXK3tlWqudHNlBJVtrlxz5Zur0Fytkko1V/rRynS1H9vVJeW62o/vaj+hq0tq7eo4qqtL6q57fLS66+fEXdVd/w89W931e86z1V2/R/OU5JOO5POj5JO04D2A5P2E5O2K5N2Q5M2W5L2c5H3h+x5zEVLvW9hZRn3ukCeWGmvK89VfTTm++q0py1c/NfV+49TXzVP6oxYRpQbOujc1VdRwQY00Ciy1/5hZWbe7oirrtpuqrNuw1Lag2roVS+2IXnc41Ewpf6iJpUZKuUORw7eHIodvDkWO9RgqPTD1VQuhvogc2KkmHIVTjbjypyIG5k5FDMyeihiYORUxCh2pGVUqUhNLjaiKED6KECt0FD5W6ChcrND3jknUgiidqBlRCcIG5lM1cuKxgaXx2MDSeGwUGYL/yJArMN/lCgyzuQLD8ng4rEBQWBEPhhXxYFgZD4WV8VCYAlQRBsQDYVB8GQbFl2FQfBkGojzMIyoNg7PyMDgrD0NQGoZlpWEGVXGYQlUUBi9xO9NXwUvMGZ4VMzwrYpZGG8OHFbM6+me6eOkFKmeTgbELHsYAAAAASUVORK5CYIJMKRCq",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

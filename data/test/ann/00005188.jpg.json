@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150564784,
+            "classId": 6539258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:06.266Z",
+            "updatedAt": "2024-03-04T15:28:06.266Z",
+            "tags": [
+                {
+                    "id": 108106609,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:06.265Z",
+                    "updatedAt": "2024-03-04T15:28:06.265Z"
+                }
+            ],
+            "classTitle": "lemon",
+            "bitmap": {
+                "data": "eJwBPQHC/olQTkcNChoKAAAADUlIRFIAAABNAAAAZQEDAAAAMjj8qAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADlSURBVHicldTBDcMgDAXQRD3kmAUq0U0YrYzGKIzAkQPCrTH2DxKpVE5PCD4Gxdmemw1HTemJApjAAraX8E02zRwZxAOzI84z4zjtOzIoESezdh5kaZ0SIewRj84EZrCADaQLAxjBZEf0tBN0ZMEXemEF25Kk7yAnXzjERSgTmCfqtgLWJdtErYHWDEtGveYd0w1PFLxiueHxm/mGjz+4L5iWz57wfjP9km4wTtTLBXCbOK7RZo6CK8if326xymBtRui4ho6rYEHzZTCh+YJxtK+zXb1gWdqrFHFp+i/YtaW5CNn/AW5JslQvnCy7AAAAAElFTkSuQmCCB32EHQ==",
+                "origin": [
+                    174,
+                    132
+                ]
+            }
+        },
+        {
+            "id": 150564785,
+            "classId": 6539275,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:06.266Z",
+            "updatedAt": "2024-03-04T15:28:06.266Z",
+            "tags": [
+                {
+                    "id": 108106610,
+                    "tagId": 31485,
+                    "name": "seafood",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:06.266Z",
+                    "updatedAt": "2024-03-04T15:28:06.266Z"
+                }
+            ],
+            "classTitle": "fish",
+            "bitmap": {
+                "data": "eJwBxwE4/olQTkcNChoKAAAADUlIRFIAAAC0AAAAswEDAAAAGgakyQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFvSURBVHic7ddLboMwEIBhIhZZcgSOwtHw0XwUH8FLFpanwTwaeeZPSkSFVNXLT2geluUxTfNYrWvM1WXbBwmmjyJmJBFJ4OI132aP4Eag4kKuS22LT+C658V1paurSldXgZZ69B6t36tKN68rvYudYPN6K7rNPXiVuBc78e4ZvErw7RE8gQu5B4/gCVzIPXgET+DPCYZn9+ARPIELeQCfwDO4kDvwAB7BE7iQO/AAHsETeAbfEo+1e/AInsAz+JpY8ZpYewRPr/ymPYMLuTvocwOt4eEDt+LHE93Yt9c+HvRBewD34O6g2+f8jfc/9nzQ00vvLM/gj70DN9Z0kVM9Z/lVfZHHf//T/tvnP7N34Na0mN265ed7jNxOTO7MW764WZA/7vcz3F3kZ9V/1APs5wduHpQAByLYY7/M8UFzhjHr7DG4jF/d8DI2dQMTeHltGI2VtLqx7Z08muH5fd7b4evG9h+SqrH9B6ZqoIT/AhUl5qP15srKAAAAAElFTkSuQmCCTMbbqg==",
+                "origin": [
+                    0,
+                    77
+                ]
+            }
+        },
+        {
+            "id": 150564786,
+            "classId": 6539287,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:06.268Z",
+            "updatedAt": "2024-03-04T15:28:06.268Z",
+            "tags": [
+                {
+                    "id": 108106611,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:06.268Z",
+                    "updatedAt": "2024-03-04T15:28:06.268Z"
+                }
+            ],
+            "classTitle": "rice",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKxQLyckRlIem479B9IsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYaSNjTxTGkYs7TKxv7DivwMAQs5on1S9r78sfkZ9N/sX/I/CdidzCoPdmhdG4Ba7i4X2Zg+6s9B4QlNixlcTjEmvHww4qHoovypdOT/vyYKW1nXBdaUzwj//YM1hsOdnrG3g9ca8QWqh7OVml4kaGlwFD0cgPjScVz2xjqm7WFPost6XoiWhSr2X/nwNLuunPnmMuUspfoeSj3MbkL7s73vvvo2zerkkapJRPvSd7UntKvJq6wgy2zNV56u4OVWeaBPTwxUtxhyVFB+Q3WFjsXxigUXjCQMnBnXZ2YZM37YEnYg+DkWr9XTbs68jn/zOdY3HC8UNL1Xnt637/FLRdY9/EVioQkmjzxDypk9b0gsbdnheEsBlCIufq5rHNKaAIAM9aLAw==",
+                "origin": [
+                    0,
+                    5
+                ]
+            }
+        },
+        {
+            "id": 150564787,
+            "classId": 6539308,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:06.270Z",
+            "updatedAt": "2024-03-04T15:28:06.270Z",
+            "tags": [
+                {
+                    "id": 108106612,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:06.269Z",
+                    "updatedAt": "2024-03-04T15:28:06.269Z"
+                }
+            ],
+            "classTitle": "broccoli",
+            "bitmap": {
+                "data": "eJwB+QEG/olQTkcNChoKAAAADUlIRFIAAAC2AAAAjAEDAAAA69/BjAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGhSURBVHic7daxbsMgEAbgcxncpWLtUInXyMaLRbXfrGx9DUsdOtajBwQNjsGA77fqKs3Um5xPxnfABZuIqPXeEhPSe8e58t5zri/eM95d3DDueW+CD1sXwUe2TO8nvkxuYh3wwGnC8hTvaEpPpbWFq1SCLHy9VMmfl4ea2fXsoaAz0dN8nbtX7nVaBvep/Djm6iaVH/06eKjcLT/GytdxvPu0DFX0wM2yWwe8PehHn3+TvAPwEbgF7mKb1BHb5KfepzYpw+RtksXwxz6y7XMP5+uZwPpMYD0t2BfL7+OOs/12cfb/suP8hC3xE7OgUf79bi4P+qGDw4KDbMfZxtpxtuF+492NXANXB51b0ODcwqE3oSW+UEt8Ykt8Ykt8Alu8+mN89Ofs02INs3xk1DOIXicYomvgErgATsg1cAm8TJDqrxJkroFL4AJ4sZm5K+AtcAG8AZ4nLlwDl8AF8Ab4mvir9Jj4rfKYWH2WHldCvpe+JHZS9IWTdyGFfRAlk3ZhuSdqKpfzKbj9sm/n02vceDOfImbjFPxly3RiLMTjevkNKqrl0zZyBfQAAAAASUVORK5CYII6o/tG",
+                "origin": [
+                    74,
+                    0
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150567492,
+            "classId": 6539230,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:08.868Z",
+            "updatedAt": "2024-03-04T15:29:08.868Z",
+            "tags": [
+                {
+                    "id": 108109773,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:08.868Z",
+                    "updatedAt": "2024-03-04T15:29:08.868Z"
+                }
+            ],
+            "classTitle": "cheese butter",
+            "bitmap": {
+                "data": "eJwBygE1/olQTkcNChoKAAAADUlIRFIAAACwAAAAeQEDAAAAo545YQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFySURBVHiczdZBjoQgEAVQjAt34xG8yCQcTY/GUTgCSxZERgcpf+HvjJ0xmWHVeemu+kU6gDGyvGErJ4J9Zrxp4Q/FtvK4IM/CnnNUMYRXylMG7XaOhR3nwDlyhmF7YIhigbOuISzjD5ytYqdqFN6+4VUN4aBqCEcIDXzMM3K2DR9jzpwPLQn2n6qODQ8XXjBI4b2R4xw41z1rOHHOL3iB2YEdZw9bAhzu8venCBsInDivyHv/z8odct37ezwI94yXc6c0W+Tx+Oh+5oA8C29bURt55Lxw9ieD5mgpp8pB80x55QxRH+GZcXqC12fYMs7/hl8E/ANOb/L0e47nMXiLhzc4wFGguGPsDf2DO0Onx6P3XCse6+dKeJNgEMOieLylVBAWRd2AKoi57krSlxoGMdfxfeE2iis8sSCXKPXJ0fQ8SrfjLwfrnuf7RPUMwqq4E8Yq+NyCKvg462kNqKKebM31LUsmMnrZa8N9DaTyvrR+AaIMRAJEg0BfAAAAAElFTkSuQmCCQ+TMUA==",
+                "origin": [
+                    145,
+                    80
+                ]
+            }
+        },
+        {
+            "id": 150567493,
+            "classId": 6539305,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:08.869Z",
+            "updatedAt": "2024-03-04T15:29:08.869Z",
+            "tags": [
+                {
+                    "id": 108109774,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:08.869Z",
+                    "updatedAt": "2024-03-04T15:29:08.869Z"
+                }
+            ],
+            "classTitle": "carrot",
+            "bitmap": {
+                "data": "eJwBoQJe/YlQTkcNChoKAAAADUlIRFIAAACgAAABFwEDAAAAELndFwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJJSURBVHic3dhBjtsgFAZgkBfZVKLLLkalB6nqa80O92aWehGkXsBLS7VM4wQez/BDSDxRlXoTz6fk/Q9wnDGim0R+dG5E6CCuCN2M0NkETxumBZ6Gy79CdR+mc/cqqDecXgTtw9i/PI7X8zeEZkBoES4Inf+83qFFuDAcAvqzBC3CJUM6TdESiogLNc/QHcThYTRFHBPsOa411EW0CSqEp2a83N4n33AV5U2km+KGcxOaZuxLuKSom1GVcGVd0Ny1Yedxe/nC0V3RilYcCWURhzIOhKKGJsOtWs//ZwjYcTThus5we+sPhF8RviH8hFB8HLrwVfhfUB7DroxTA56egKqMtgG1A+vejn0zmjsx6dO1ojyGXQWn23hqRnUMdQXnB7E/huZDcD8idwjl3WgRjhz9su8fwCpXTfKk5q8FiCtCdxv9BcJ/nyKOzWgRTgjnZlyO4fpsDPPpnoAw6CCyWfqM8DshWw5HaMmkGwOOhJ2bAg6Eyi066+gsJgvvw2zswung4XTwcDrycafh+chj+BTR1MPjIGM4y4nhbDwKlGThsWQM5yuJSsZw1noMj1PEwllJCudfIQNKClRSopIUzltXCDXC+shZmxJhh1Ah1Ah7hIH+MKTw3wwp/BdDCv/Jli2Er5JhCF8QzhJ83CIc2bxVb+/wJ2O/6eZHNCO0O5QgPEzdsEeTh3tMd/z6PLyw76RA+HVISTg9O2bdp+GX7rOt2rjhkjSahl8aTcO3RvM94XOjec650Tzn3GheUghQUoh3hN/2f/4FZJStJN0rbOAAAAAASUVORK5CYIKm0zi7",
+                "origin": [
+                    228,
+                    28
+                ]
+            }
+        }
+    ]
+}

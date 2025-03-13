@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 339,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150561672,
+            "classId": 6539229,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:00.058Z",
+            "updatedAt": "2024-03-04T15:27:00.058Z",
+            "tags": [
+                {
+                    "id": 108102722,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:00.058Z",
+                    "updatedAt": "2024-03-04T15:27:00.058Z"
+                }
+            ],
+            "classTitle": "ice cream",
+            "bitmap": {
+                "data": "eJwBigJ1/YlQTkcNChoKAAAADUlIRFIAAAGYAAAAfAEDAAAAblc0NgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIySURBVHic7dhBkoMgEAVQrSxccgSPwtHwaMxNmBuYXRZWekaNiPBDd1M1U7OYXlq+gJ8Gk3Qdqh5erdfYYqY/bPy/aTF2+hXT0w8bS7Te3pPm89eaZWbrycHbzdAiMhTWQe70qg/2efrF0IM6R7E+WWMprzt5Zl6oQt04ZOa6GZF51I1BZqmbGzLPusEhMMYiM9XN0GBg2pxByXnGoBRYAwYKnOkbDOgf3pS9wJtyXQWmGGjmTTGQxOQDMRtor7HBdC3GXAyzUY9yDWZoMJcYpCadndgk/c0dPGcNDeZ8JIXpsLnNNRNXNrs6SQbKLlZ7yQCzXguCgdJLjlswU5h9b/mK6Qvj+N3hMjOC2eaV3REbanoritziioU3c/LxLMmGJXwUWUqrGAambaA5Pwm17Q2Z9CIKAZl0wh6Yka435K8lFEJ28NiM4E7Ib5IYUzewtcF7NS18RhSPcK2pwXhAXJ2ALoXflS41q0cBYfPDlMHxpNjeRmKuYQtmRllw8MtvWbOeXDpOSNLgZA+z1hmCFRt/EGYLpBWDM3ITu8fJzRGcNOit9FOLwY0aE7RJU+weDXkFp1gdOrpH3jhb6SN4dY/VmVkdwR6CLoK9e5QRbCEYrZnUsW3BWa0JDeah2nB7LerloTU4vZn0c/sOTm+CPrft/yxtLQ0NR/pNtx8JOvRsPxUVz5S8taRndpeWCIXuWoJ16spiBP5d4mrEQ1KbX/Wn5wjJXCMwQU5sZRMAviB/AZSpakd9cfzlAAAAAElFTkSuQmCC9FkjjQ==",
+                "origin": [
+                    101,
+                    171
+                ]
+            }
+        },
+        {
+            "id": 150561673,
+            "classId": 6539251,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:00.059Z",
+            "updatedAt": "2024-03-04T15:27:00.059Z",
+            "tags": [
+                {
+                    "id": 108102723,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:00.059Z",
+                    "updatedAt": "2024-03-04T15:27:00.059Z"
+                }
+            ],
+            "classTitle": "strawberry",
+            "bitmap": {
+                "data": "eJwBWQOm/IlQTkcNChoKAAAADUlIRFIAAAEWAAABOgEDAAAA6e3vQQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMBSURBVHic7dpBkpswEAVQKBbswhF0jex0pdxA3uVa5CZkla2yc6qmrGAYLOl3t9V4GJenSr1y4QfW78Yw9rhpsLoT2fSYGY8x7XSQ8WXTPdOcjzH9QWbwjfNF04cQmCem+NB4N5s3QtIs5k+41oSmT3azCwlk5X3y+m41F7LOcEKTbNnMGB++Fy5oiFvMZnBBQ/CwZLqgPvbjZnBBfdzL3cyIJlADi+7ikW8kLnGtNh45Ggzmtr3aaHCsdtsrMRjebHslRgyfGgjfbeG7xED4WzCbGAg/B5vwMCS8XffqU4PhzbqXSY0w+ZAVmG7Zq80NNKhdtoCBBs3BRohFT2l73VIw5hq+z43ngg25wSYuwcBgE9trO0xuyPv5Gh4MuQrZObwFA01cgpXMMMdwYEYmGBps4nViQEgT52C/0ZALng3/0JCrKzYnsBfFsumoIY1uGYNNbBiDTSSTCMwdgQlGDBPMK4KBsVNPDQzDMbFUBgbGJCeGSU4GxqyYGG6kOFRupGSoGuM4MyrCgzGcmXIzKAzbIH+QgcGz69EM9YHBW4VxnIHBsyQzLbmIrXVKTPdXYXiSDV5j+FM1H7xkfDm6ymSDd4+bbPBWYYTjXPYaIVfYaaQ+x8G3GjNKc4+DbyeF8WXTyGaKRlxzNGfR+F3mTVxPNOGnZOJJ5iSiMm+7jFUYE6QjxRPxm/hq6ckqruiZ5nSQGZ9opmjsR4w/3piDzPARk1yh2dv7JxnxDX+USe4Y4gXoE4x4w9CY9G7pBOMVJiHiiZgaozDDQUY6OVIjDXWvkQaWGmkYmXEsuew2ljU+M0Zh8iZe3tuRm47Z3+Ff9OuTC/21LdWAWYKdm+UgP7bOgpkX7c2p+Z5+ddmA6ekH7eZ2wK0UX9HWqlWrVq1atWrVqlWrVi1aHf0FCilL/09IyrG/dyGmeKDA/SaGmuKLrR9Jy4b+S5YxXmEKL7aYQjLm+wDeFNIHRbDVjAozKYx/ornf6Nc09wf/mub+ifia5v4b40XN6Qua8Qua6QnmPylffZClyqmZAAAAAElFTkSuQmCCdayXGQ==",
+                "origin": [
+                    0,
+                    25
+                ]
+            }
+        },
+        {
+            "id": 150561674,
+            "classId": 6539310,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:00.061Z",
+            "updatedAt": "2024-03-04T15:27:00.061Z",
+            "tags": [
+                {
+                    "id": 108102724,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:00.060Z",
+                    "updatedAt": "2024-03-04T15:27:00.060Z"
+                }
+            ],
+            "classTitle": "cilantro mint",
+            "bitmap": {
+                "data": "eJwBsgFN/olQTkcNChoKAAAADUlIRFIAAAB/AAABGwEDAAAAyWHJqAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFaSURBVHic7dVdTsMwDMBxhzzkDR/BN8FHy9U4yiSugVoGiG79m2EyrZX4yFt/qpw4dl2R49J5WdPrsxjBfzP0f/ga/G9D/7lwRbZXgO0CugW0XaDuAmULkH2g3wB8HGwcdBzaONRxKOOQBT3rhndQwgxQghNmQCE0ghKcMAMKoRGUYARPoacwp2+EoOEcSgi5VEJIP1wQDjIJ9v2sDKFQoZSx2EpohEIILbWKOq2/yUttWQmhk+O/0gj5GI9zzAlGqE+AU9gPKIe+hiXuCSpBAnSCE4yghEaohEKQAE4wghIqQVYX9Ch68PMrfD5G0DNYancRdAuwLSDfNs92EwiNGzt5HCSHnoKnYCloCi2FmkJJQXLoKTjBCI0QJkwhfGPkGEEJYcLcZKA0QhgohfB2+BU4QQmNUAgSoBOMoIRKkACd4AQlNEIlFIJ0ghOU0AiVUAgS4IFwT7h7AROvmjvMjrTjAAAAAElFTkSuQmCC3Hqq+w==",
+                "origin": [
+                    385,
+                    0
+                ]
+            }
+        }
+    ]
+}

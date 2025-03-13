@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150565123,
+            "classId": 6539240,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:17.952Z",
+            "updatedAt": "2024-03-04T15:28:17.952Z",
+            "tags": [
+                {
+                    "id": 108106948,
+                    "tagId": 31481,
+                    "name": "nut",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:17.952Z",
+                    "updatedAt": "2024-03-04T15:28:17.952Z"
+                }
+            ],
+            "classTitle": "cashew",
+            "bitmap": {
+                "data": "eJwBhwF4/olQTkcNChoKAAAADUlIRFIAAACQAAAAUAEDAAAAzGBuTwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEvSURBVHiczdTNecMgDAZg/OTgWxnBo3izmtEYxSNw9IGi2oA+CTlpciyX4DcgiYcf50z7tuAcBSsP2vWnJ6J5pJWudmjabjRVoTxEvpFvVNqMYGluP4uisx8NncmTEPXkGZVWmvtoRXVCGKiuI4KuCbWza2pLS6Dcotf1C3nudDq4woJSQYSORA2KNkM7KDLFXun158LD+yacIVZO3TfhzI1KQRPKmplmJAR5JPRMWAUorxwK+5IxD/TDJcgmyKCRsrNU9NEjVPAB1XPm6D/Qk7qeV7+9p5UKqPxB2dJCByi/JE9pZeo3/XwYLD0UpUYTRdDuevkBFDt9uRvJSVHvFAiCU6eIj2u5k3qA+OgnIb4zu5DcP2mLja4eARtMh+rBwkDLWBUHSyNNJl8z6f8C1IZBdWJNlcgAAAAASUVORK5CYILWQ6m7",
+                "origin": [
+                    78,
+                    170
+                ]
+            }
+        },
+        {
+            "id": 150565124,
+            "classId": 6539241,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:17.953Z",
+            "updatedAt": "2024-03-04T15:28:17.953Z",
+            "tags": [
+                {
+                    "id": 108106949,
+                    "tagId": 31481,
+                    "name": "nut",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:17.952Z",
+                    "updatedAt": "2024-03-04T15:28:17.952Z"
+                }
+            ],
+            "classTitle": "dried cranberries",
+            "bitmap": {
+                "data": "eJwBpwFY/olQTkcNChoKAAAADUlIRFIAAADCAAAAsAEDAAAAZ8UjuAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFPSURBVHic7dfBbcQgEEDRQUjL0Q1EooVUEFrZErYDXBq3tEE64OhDdgk4lxzms3Lk1UaR5/oOHmCYwSI/Y0oC4T9J4o2kVgBT66yLQ5lQAkolsZVycygtAVhpE9idJgtK2VXyVmkrTVvF4pEKbUE7n0LC5XbEEUc8JXwhof43aAvcz7ucX0DS+Y2kxM3ysahJ9FbPclV7YBe9O7olkBQPg8iyZBKTAowoM5NIFzi8OBIYXhGHCk5cwc8IfkZw3gkmIIuHBORyApBXgiP+VViUaSaJ71kHg3W7NhZV+qXWr0FAiUPRX12VxFTKjcXuLwUloyQUDdb16Jtj8HiEJWAv8iiOu1SkF7Y4gj8XFwKL/w84oARP2IyromjisPomvBmrqPfM/0JCpcJkiSgrqIP1EZJ2lfxwiZgBS8A9uCcKfNeBKhYrZNDXHcrg5QW/2V+YLsJsNL2TMQAAAABJRU5ErkJggpCjscA=",
+                "origin": [
+                    33,
+                    35
+                ]
+            }
+        },
+        {
+            "id": 150565125,
+            "classId": 6539287,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:17.953Z",
+            "updatedAt": "2024-03-04T15:28:17.953Z",
+            "tags": [
+                {
+                    "id": 108106950,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:17.953Z",
+                    "updatedAt": "2024-03-04T15:28:17.953Z"
+                }
+            ],
+            "classTitle": "rice",
+            "bitmap": {
+                "data": "eJwBqQNW/IlQTkcNChoKAAAADUlIRFIAAADeAAAAzgEDAAAAa38ubwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANRSURBVHictdg9cp0wEABgiAq64NKVdQ0XmXA0qUuZI/gqcpUyV1AmB4hKMsOgWL+spN19z54JDe/NB2J3JSRgmpptn+htZvB5PmhUgkH/g8bZe0+ieEONyqeEBsVFb57E1Soa5R7M41WQZ8QTR582FLd7UGOoMqLhFnQcou1WxE6tiKV6IdIwwDFggHbAy8biC4DDQFoADuGuAIfiK4hduDO0vkiiwS6ipcGTwy6itUXdoGyxDVe1aBusSWxjLjVNm3JqSl/T1POYaM0kX6BJtAR7ltAgbhn3gjDRkokrP0GiNVhTECQK4skIEi2VPWo5AJZg94qgCiVYVy8PqgCCFTXhoexXbCiW2GoVZg4FgrVEC0DZ44qgHXBvUm4LxONxZVXrV45+S12A43o064CqoqvHncOJcGNRfxjNh9H2mdyNrh0k78C9HUHvwKMdXu/A2C2fFwblNxxjn8k/HBL2v1B/GA2H9hauFDoO91tIdErqUBJPuq8TEkPIp+KSqDk0+N1gVwZTIBaNNk9HDq1QXnoc2isBX36HHY7by2tofcNx1Tw6Cp+WSVnqmhOLn6bNUnmG6cmhFdoXkxHplX0Nw1I5tLOPhDteeBnxQAfYuYVrhkGEoYro8aEZcKYwjC0WFw4liWncEbdDvORJ4hLrj94rsbMscTvEeCyxOCzh5YXC73893exP76l7JW/4ALsTt4+huYGKRM1MJp6bacIMpqh2Az5yZ5LtsuhvzZo0ag7Njf5ksRvxx/VzH9Cp+nO8efWzBNheszm6XwabNapfzCwsi+4uajjUU/uyIHoUFDaPObatfOzg5Q6U4G0hbseFh+wnBYjrTZx6XNPlF/Buc6HkcEu/BYr592uP8NngVx/QCQpke/QDKoDm6nwbVp0GweJmVP8sANZps039zKjr9GImkHQ+dbsOu2o5bAmxe/tYyzsJcuouXEZkabGTxs8MY9kQ2H1MaHH4MAJTdT3CbOyA4FQ9oAztCQJDTCZFNlisQx7fI4qUgkJxTilI9IvUnDp3pTC3jn22S1WbCUyPTwS6uFMoxkEayoiijjuJY9qt6KfCjAuKX9NOoPjlDpxRfMx7FB9KYPgn0bRt3Pfm+PhJouFQc8jY9MThI4cP8M8/bNiO7b/+6JQAAAAASUVORK5CYIJMcLTB",
+                "origin": [
+                    25,
+                    0
+                ]
+            }
+        }
+    ]
+}

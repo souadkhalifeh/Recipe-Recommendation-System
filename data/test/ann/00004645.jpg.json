@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150564797,
+            "classId": 6539224,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:06.271Z",
+            "updatedAt": "2024-03-04T15:28:06.271Z",
+            "tags": [
+                {
+                    "id": 108106622,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:06.270Z",
+                    "updatedAt": "2024-03-04T15:28:06.270Z"
+                }
+            ],
+            "classTitle": "french fries",
+            "bitmap": {
+                "data": "eJwBIAPf/IlQTkcNChoKAAAADUlIRFIAAAEAAAAAhQEDAAAAjra0+gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALISURBVHicpZhBjtwgEEVp9UjexReI4pvE18pqjJTFLHOkIcoiy1wBKRdgSSQEAxS4DVQVLaWkaUvmGep/oLBHiBJLSKHhasUYFVjTxZGAElu+IsC9ADsPGJEvQX4eAHjS3gvwdQBCE/ro228tYIYs7qELiaq8hMq3N0n2oPPtQxE5JMH5ruaBBS6IzDJfKwM4cM+SQ3h4yopXALYeCCDNiYCPkIElAwq1IVu5pZFA6ToC8cEj95CFHCOgc+JWZCHICPHBNWNJz460B3ODTOAPCZt+fNKnBpOu40TAYBlcpTgGyB57GrBg0XcS0GDBX26EZNc/qh32cMzyIABYTnsIGwHAmo9Z/sHb/blliCztuRotC+BTlaIWop0CSg7Igq4hziyJkMTGPkPNstSzLM0sSzvL0k1UghHMggSdKwcoTkIKzZmQwswAOwPcDPAzIEwBiRafS6gZoCdGJSM2FrDcinwWYKc7Wcn34GZJPgOsLPD/KixymvXAfM0dM2CfAesMYLO0kxpU9vcUYLzyzwOWmFZZAUmokaWcO8oxVQ4dg4l5D7VUbvX0auNHqKVy8WjFTV2WI+FLGamNn6F7ee2FmvA4M3KsHZCOywYYZKQur8Bg+VsHDDp1B4wvfFs536kD0t8gyfOtsTciiMOBPEcAquovwN4DZga4Cnjc6yqSAeQM0EJ8uuSwDkB0aPfRBxLwSXt82SOBkAAvzjN40BmzPOLPecxjMiJgXut0jmPAV5GlAZ17NRUYC0EHjPsTPt1YYLkCY9HUeSkzgMnmaBZYZoDQm+KBM16uKixMTAMs181nwLUGuKv1ASigW8BsD6CUPd0AvgHyPmqAq4a0jCP+WzXA8QAcPCAFC+wMUL4FBQ/c+y/4vTa/lVX4jQJ+of8euKx6TQCn0+bAAajeKcUdB5L7sNlXHBDlFdOIm6EAmXJVeKsYdcf4AMjffXn2gUC/AAAAAElFTkSuQmCCdwhg/Q==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 150564798,
+            "classId": 6539269,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:06.271Z",
+            "updatedAt": "2024-03-04T15:28:06.271Z",
+            "tags": [
+                {
+                    "id": 108106623,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:06.271Z",
+                    "updatedAt": "2024-03-04T15:28:06.271Z"
+                }
+            ],
+            "classTitle": "chicken duck",
+            "bitmap": {
+                "data": "eJwBuwJE/YlQTkcNChoKAAAADUlIRFIAAAD6AAAAqwEDAAAAdfATLAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJjSURBVHictdhLjtwgEABQLC9YcoP4KL5YJJNVljlSkOYiSLkASxaWSYPd/Gqqyj30sGhpzBugio9lhDjLdgiyyBAsCdYQdhKER9FEvYqA6mOJwHHAE2CLgAo0gcACzQHDAcsBNwyIRKz3ADGfLEhzQeV6HJxjIGZrHJyZxOOcznp8lMsF0D42Djzr0UWXgR0G7otgGgTTMdMgpzH8raPY8sTkNIY/9eYrWcv14aNK9Zy3ahlhMNVslmOvBj8a4HNbn8Ww5OUjC6i33pqXj0LBFQYCtgwWHJge5NxJnYDNnfVgNgm4HuQ8Te5zUDLtE/AAxGGv8f9+JrADYFPU8VkCR46nynX6fdDSZQti4ssK+6074Os/rj5F/6wpjgN+GMQuqPoQc8cAM9yCpgcZs02Do51NWBwHBAN8u6phse3GgcXcAXIYzEMgLtrpe4FgwC8GnLubaiFtbyrMYxikMMdSbTng7gByPfjvB/tbulBDwI2Af/GH2rzpvNcMiPU4kNcbBwXP99e7wL4xwHHArqPA4OBcD2ZhgFY9MB0ACyuDc+PA/ZPB9B5wwJOoB+DF0oKdAOICigQe7rAXgYMnDQB9nC2IU7dhYLtAF6duQOSKA5IDEwbW54ikX2nQvugLWApQKNAQ5Pr09Aug/VDggQCg+rKcb4ADAv8CmEp7FXCvAQ+BLeAx30++YMBCYBpgaLAEUYPzyNQVUHsD0oHXfKLPrgF6Ceh1SAozzZ7lgMZBOo2wWwIZrtMIu5G5gES/4OfA3L7dAtTV2T3gKEDk8CZQbwFuGJB5GAeSA4IbZGyCBgKuxv+wsShsz0vlGAAAAABJRU5ErkJggvr8Pbg=",
+                "origin": [
+                    4,
+                    78
+                ]
+            }
+        }
+    ]
+}

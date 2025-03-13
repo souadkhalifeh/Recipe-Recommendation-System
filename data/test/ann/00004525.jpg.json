@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150567724,
+            "classId": 6539310,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:20.650Z",
+            "updatedAt": "2024-03-04T15:29:20.650Z",
+            "tags": [
+                {
+                    "id": 108110005,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:20.649Z",
+                    "updatedAt": "2024-03-04T15:29:20.649Z"
+                }
+            ],
+            "classTitle": "cilantro mint",
+            "bitmap": {
+                "data": "eJwBwAE//olQTkcNChoKAAAADUlIRFIAAACKAAAAdAEDAAAAYNE4TgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFoSURBVHictdU9TsQwEAVgr1y49A3wUXwlToAjUVByBI5COso9Aum2Q5FoLBHyNn+OJzMh8q6Eu/3k8bxMorVSbOmai3KCAipeBkEGkHU9kxMEDXUdTwBERh5oGQFoRCrUG3k0nGxrQcObqBFHIu27gOg2SYf2iH6TNAzUeZp0bI/O0aTjwYCjSf1ErzTWJDiTDHqmC8lgEuUM8+n4JhlcopTBxjDT75ph2QMyGkLscJA5ZFozfKyUMpiLpB9BtpcEQe5WaiU18vjqz6d+Cvypdd6TGhpCraRG9EsNSb/UkFAasz+kNPkcdJ3DDsmklBpJdRFVRaRKqC+i9XsLRxRl4Q6lQah3SV7M5pjSbMh7/GeqbiN7L5k3Qfkr3yF1RFaSu5f8Iv0hhSJCCZ0S5T9eXUQ7hQt9bq68ic6U5m0vNNcOzS2f8cVJbZaRpCHuYQ1xDw8tA7+Hh/ut5dSamlFoFF++EvSw/XkFXjjHmEQdzQQAAAAASUVORK5CYIJsy70/",
+                "origin": [
+                    42,
+                    33
+                ]
+            }
+        },
+        {
+            "id": 150567725,
+            "classId": 6539319,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:20.650Z",
+            "updatedAt": "2024-03-04T15:29:20.650Z",
+            "tags": [
+                {
+                    "id": 108110006,
+                    "tagId": 31484,
+                    "name": "fungus",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:20.650Z",
+                    "updatedAt": "2024-03-04T15:29:20.650Z"
+                }
+            ],
+            "classTitle": "shiitake",
+            "bitmap": {
+                "data": "eJyV1Ps3lHkABvDvO1emBhUSZmdUUy7Zleumlndi3AbNziBtqneyi2Vd2p3kumYcqzRtLtFFxRyVUmO8ozk1rPQyuXSR2FmyibUjWbPDkaZI1to/YX95Ps85z+9PETc8kEqxpgAAqMFB/jwAcCsVEkD4FXa9E71YgcQNjWCvuLy8fG2o+uV/u5AXzgfwxPM4AAjbgv1ZERmX9MMs+QuGGQnZX1f+qWPfN3uveY2F3INGDF/5nCzG+iUad0Wsjdp09ZYZ9s3CSHfxTJtLes3187VFnjZ5Ek2Bx1FRI5+G1NMSOw9NYydGzPyjhqHyzrPNrgbgbXU9jLVfVdj1KIifoB/O960VmCt1uPl9591iUwnwLrF2Y9VczROW/MBOryzFM3aYWq5rMcpUWoax1PaJ52gu2cqXV/xIqukDzqcmPHd7Yz5EBfmHYK4JIlBy8L8TCz2mSIvj8wP6Zv14B7VSMx87mHyvnVp7O2OyuX6w57stkjdGq+0rCW/XZGxh0fJzKehBvz677a0G8Sf+YTjVB6ylUDuw+S5rHiOINJ5B9PNe/dV7cVzIBUiL8d4gAEXtTAja18TFVZL47c87mMY+Zr2HUcnjfAv4yNz6xRiUZJ/yTwy9pxy0xehbqAlRKvHs+/LjdR6lswnrph1M1YpeL6PoZV4QEPQG6trTZGXcDcNuloWxFZvtEEK0ZQoFt4n2zEwlLjpKvIhsdVG0IutkRIyLGqMCuB/irzjG0wjBucMeML04aQePpMo1Mru1yZXLDbQySyWPv4AMF4DMfyldinzsAuzB/uOAvV5rktNA/DG14aR8gubSgH/gIKU5iTnOabk7GYlQE/4NX6xXR0bi74bA92nor8Uh2FCJG6wDU2fEnPdWwiPHlKu5Ol9SJ1+0dDt0KcsabcA/ieL/hH20YLUAq5tgASdtwGlWiVLuy59CYRbSQ0Dj3CbHBuewRuqooyiT4rsnRcsR7SA3LvDIN/r7HmMLv7yKgLqTHT/YovfsR9WZl6IPCnsaamYe2qCnpy4qJpOmSd0WqtA/zdFWsFzniD8V+rYGXJETnnqSrBAR9H/jj/tEobM0EVpIhzW4rXnJrfjS6sfLTHwp/e/RbvhqWYC3VDD8DCJq8el/wXvIXzszkBb+1bHirkNpzDWfNZKB07eOAGH+/EAik3yR41oOKK12k2DS+0t602U6hNtnKwElBeL5ScNcW6hFS18FhOsIxuYePpWuDZW1boTTOCcsb4wOkN2YlHNgJCvbFbEuKTBcGFqLhbUbHe7zlF1mW/fgwx8trkV0p0we8NnYncIlGKKgSx5CewYx4d0duYCz6tXZ8SpIkT4TIlI3fc6ZtCwriotBHrZXRT1yrjsmzsTqHXCVnetjXPMCjU+TEk0DDePVHrY5WJI3WbgBjuuM7y19wrTLroyblid8D09XaeKhClLzNkaZ1ji+svZMiS/VnR+yYH6VUyR0vCXbz2out3cKYoozlMm2Lu7wb/WMyBDl7Cxvo77tSodIoJs1fR3QxfDrTlSunAgIZof7y3cj+f8C51n3cg==",
+                "origin": [
+                    0,
+                    31
+                ]
+            }
+        }
+    ]
+}

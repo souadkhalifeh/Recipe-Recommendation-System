@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150562602,
+            "classId": 6539231,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:15.722Z",
+            "updatedAt": "2024-03-04T15:27:15.722Z",
+            "tags": [
+                {
+                    "id": 108104115,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:15.722Z",
+                    "updatedAt": "2024-03-04T15:27:15.722Z"
+                }
+            ],
+            "classTitle": "cake",
+            "bitmap": {
+                "data": "eJwBeAOH/IlQTkcNChoKAAAADUlIRFIAAAG/AAAAlwEDAAAAv1XH3gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMgSURBVHic5dlNjqUgEADgZ1y4mcQ+wCReZBKv0kfo5SwmI0djbsIRWLIwMoo/FFJIVSVvM1OLbl833wMKRNTXSxCfErTFTyn8LYWjGGohHIwUWil0QtjPUujFUMlg57UUGim0MtjK4TaQ3yRwG8jvfNgF+EsCl/XnIoHr1GkEsPfr1GkE8y7AVgBHv865VjBhPQd+xMOWBX/Ew7WL6yynniITrI8Dr4ZFaEplFThuGLCBTWkz2BfPrRbC7oJdgPYBdrEpX2B9irC0unbxGyfvGbCP/8Dg4Df5icChCr1rDALHGYV9gC5Ajw3J6JcEGhRaxHmfwLPIQIAKwpkIpzs8Gz4GMD9CDT+cX3PC8aj5HknKAtTguAJtAi0Gs2tzk0MXvzHCbHFF4F5mnzjrhx1ma2STdGBv3pad/WwEUB1FPo7fLQLd1VAAzVHk6wH66wDAo0zjnqAdfYTTebB3/SzbJbm+KsrhMbzDzIZuzyUOMwdgGJDhKtvT4UrbOBN60PF9UB8gLNtfrSDCs+wQPmgwNixoGVDBAZhBiu/w/hed9Epx4VnUhE8jBRrQxWNaIF1EoE3m2AK/5RnO6cBpdN5gMOQjZsOdc6EOTXI2LGgPUejS9P9BHQZXOeV/zCGh0P8Lx38ezug5807opNDiZ9sbocGWvrdCXVgZqqHkELmEUQK99hFiKSy31ZjRHQUhnBRa/BpWDyOFunARq0bp6leLJe5oeDFLoStsKaphS1uDWpjC1rAaOtlhMEKVtj+1gDtMTpwbeDaci5vKSpy3CmxoXi9ZWo+NMz+tx2aYn9bDsdN63WxyV8h4e8uE5oITy4Hb4kFYITOtKkJeWqPjpTW58+fA5FnDxIDJ042BAS2EPQMaCDlp1RBy0qog5GQncYzs3B7g9GR4e9ZEX+l0Culz5+bIC1b2VGwQtpQ6BfI3DsQpYDNInAJZS4mdxN6NkNqKtJRWpcIgocrC28N6lWhLKfMVbemrPu10wdWqLDS0WuXTe9XHKh/cY2KLHdxD0sEQpbOr/sYZzw/hhTM68UgvDHuhw85omssHUxFh0uByib8OuV4nR2OJhgAAAABJRU5ErkJgghzLmuk=",
+                "origin": [
+                    35,
+                    200
+                ]
+            }
+        },
+        {
+            "id": 150562603,
+            "classId": 6539252,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:15.723Z",
+            "updatedAt": "2024-03-04T15:27:15.723Z",
+            "tags": [
+                {
+                    "id": 108104116,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:15.723Z",
+                    "updatedAt": "2024-03-04T15:27:15.723Z"
+                }
+            ],
+            "classTitle": "cherry",
+            "bitmap": {
+                "data": "eJwBNwPI/IlQTkcNChoKAAAADUlIRFIAAAGZAAAAdAEDAAAAbcbdZQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALfSURBVHicvdhLbt0gFABQLA8YsgTvpGylOzFSB1lGt2Ipgwy7hHoHIeqEAeUWMJiPf9c81Uh5ecj38LkGx4GQ6yIRMeR7WWUaYTpV1geDQLRqmQMC+Za71DyAuEbg4nsfSR3HIBvkwmG2n+PsOEznI6OxZQbKxSsyfoD3x2W0jfqWOYB2UtsmAOSZ6V2j1H2AQyOAoQ4pwo8dc9cd6iEWDsHvi29kGZSVkkFRTOeGSNUW2em7AN/dUCHbs7G92bGXOelg9pMWFmheInAz873xsjcKyqPZgbFCb/bnh5swlOuQ+UHY1upeXPm1QF2vjmG5BKruJaLfy9zmCsEh+gy/++pGx1HpHbMi1ygaZcXEZLvbHUdlLhDEZLu1vzeV3SLiipOEYE3YXNxvAzRacu4H2t1Dy4rDI7miqb+KLZEPn/FINSP/FJAUjfSKVAvSeGTCgrDf2ANo8F/xCBIa7iHejn7ikcj2+S00PoImcmPLvoTmRoTf5y8h2Yjw+/wlpB7rSYZHxP9HqhGx20g3ouEZZBoeEc1ovI3gSXTfhPfW22h8CDUmgj+DTOOCvY+adu6MRX+z7wKLsld8Q7BPIzlk/WDRvA5IrO+Ie+Uzr0xI9JFXRIkO/6i95ZWUL3KK0hC+bMZKdLgLU2uSECQy6cIOshf/7CB9jgi87yCVtmeO0n+fO2lX2U6TWUhC2wwqkm0amYXoC8RyFAd7huQG8dTaGaIFYjXa3qs5T4/MdoO8QF2Bug0aazRtEEmthcIRaIlJZvscm/JBL8hnQmSIhcvrQ0dsEYHqXCEm6usMDfX5URzVGaqP8GIm1rgip1UHa1lunV7jUIiEnO2i+QgNvqMYZ3DIMbHOzeQTvTjeq9CARCFu2Wpxb4g7qEMiViR5zFJ5UmgxC3YLhdqyJHfOAsvSZ1Mi4ZaLK9SV64bnLRyXsbgx9Hw9xMLKmQNgjrD7clVzzGG0n3tWoxPGWCUvQ/4Bok5KwbloLHQAAAAASUVORK5CYIKr1IbW",
+                "origin": [
+                    48,
+                    151
+                ]
+            }
+        }
+    ]
+}

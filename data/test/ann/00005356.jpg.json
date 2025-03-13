@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150562869,
+            "classId": 6539233,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:23.878Z",
+            "updatedAt": "2024-03-04T15:27:23.878Z",
+            "tags": [
+                {
+                    "id": 108104382,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:23.878Z",
+                    "updatedAt": "2024-03-04T15:27:23.878Z"
+                }
+            ],
+            "classTitle": "milkshake",
+            "bitmap": {
+                "data": "eJwB3wEg/olQTkcNChoKAAAADUlIRFIAAAB1AAAAsAEDAAAAC++z+AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGHSURBVHicvdbLkYQgEAZgLA8eCcFQnFA2EwmNUAiBIwdKFlSav3spZ6yZWU9+BXQ3ryqUKp9ORuGXUgpAnZ0ah8LkyNPuSJ53t5AHacB4OvLulGGptmx49UA2LFz1JEzhkwh/eq3cRLt0FOVGWJzUVmwSHoUHYZqfV7yg6llYC4/Ng4ME2aOHBPlfe/WgGWWvQf1QAp9HBuUpQcg/QQWaUcwDg4qUMI6J+RizCSdpAzuYc+ZdvbYT9nAicmNZRuYIW1q8oe1fJzwSNrehTbZhXphLX8uO2Izeih2zztbVsdgzT+h98aNewLCYxxajHV6Pji1ep3TckCsr7k04Cocn9sLuw7Y3bb5s9YKHNz3e9HTT+qbnD3u5sPmAV7B90+4Fpy/a/oPXL1ruR88LuHc+5satZ90ce4bzH14x3C/fM9xX1zMssH1is3tl0714r5ye2fQu3iv+ME3gKK8VbIWPclqB1bXAk7WgrXpm5cBzQ7GCfPXAw58JKdyZEN6rGqqnDsCSoUb/BSXxN8zigYG6AAAAAElFTkSuQmCCquLa9g==",
+                "origin": [
+                    78,
+                    27
+                ]
+            }
+        },
+        {
+            "id": 150562870,
+            "classId": 6539251,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:23.880Z",
+            "updatedAt": "2024-03-04T15:27:23.880Z",
+            "tags": [
+                {
+                    "id": 108104383,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:23.879Z",
+                    "updatedAt": "2024-03-04T15:27:23.879Z"
+                }
+            ],
+            "classTitle": "strawberry",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK2QGzPyAwkM1OCFgIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcpZ6ujiGVMwpvWjI12zAwxqwmE9yp4PqugM3FmqZZ1tKuXte5U45I/Aw6Y+9i8KeJ55lStZiG1+wflSYd+S1UHlSBbPV75sZlorWeasmz33rb7vc+8y8ApZFphG+6R6mbI+ST7isXFiT3hqWsc6gSvyakkDnFmWZCTNXCfDd6DKcZrotUfZ01buCk89vTzS4donPQGh5p7Eg578iln1MPizbjssuvBL3rI37YfkTfgstyc/6JmafgA5m8HT1c1nnlNAEADK5Xn8=",
+                "origin": [
+                    162,
+                    0
+                ]
+            }
+        }
+    ]
+}

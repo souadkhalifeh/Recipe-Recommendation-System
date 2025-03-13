@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150569079,
+            "classId": 6539234,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:33.399Z",
+            "updatedAt": "2024-03-04T15:29:33.399Z",
+            "tags": [
+                {
+                    "id": 108112273,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:33.399Z",
+                    "updatedAt": "2024-03-04T15:29:33.399Z"
+                }
+            ],
+            "classTitle": "coffee",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLOQCzJyAwkAwQZFwIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDctI8XRxDKua4nt/Je0CBh/VCv4aGMdPiFBMJ3cUpLVM0lWTuB9ieZL/PwCb4JfRReeeuF4KcL7qVLrLwXeads8x8a8ls8zzLiu/XPH7q6L9ZOe3qrK6HM++7BvHeUBL12hJZ+bLwaNOvuXe+MSvaLPRY/JJpBtBGBk9XP5d1TglNAGfaRGg=",
+                "origin": [
+                    144,
+                    59
+                ]
+            }
+        },
+        {
+            "id": 150569080,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:33.400Z",
+            "updatedAt": "2024-03-04T15:29:33.400Z",
+            "tags": [
+                {
+                    "id": 108112274,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:33.400Z",
+                    "updatedAt": "2024-03-04T15:29:33.400Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwBTAGz/olQTkcNChoKAAAADUlIRFIAAABvAAAAXAEDAAAAWuV5IAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD0SURBVHicfdSxDcMgEIVhkAuXLBDJo7BKNsGjMUpGoHSBuICCk/uxA5U/nYDnM9iYOpzB8C8tKwdZSBkYzePLRURyAEUSKZk8t1sFZddZbrmRngykzGhPyq5DtfdSoUReN3TkRvopAykzWnIhHbmRngx/GbHtDS25kCu5kWqfzIXLlC2kmjss1T7ZpDrMTeRBFlIG7mTUfW07gQmvX3ca6DQzWlepG1tjWVbBxGZdu6Nj8WwUMvMgHVeqlOl6CFWsSO48z7ig/bIHPfUXOvOu7/gTJAN29ZRn8ZNS/cDOuH14FNtaqljXykp1rahpUDTm+X16A3JKWfP5lXTJAAAAAElFTkSuQmCCEb+MTA==",
+                "origin": [
+                    18,
+                    85
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150566759,
+            "classId": 6539234,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:52.459Z",
+            "updatedAt": "2024-03-04T15:28:52.459Z",
+            "tags": [
+                {
+                    "id": 108109040,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:52.459Z",
+                    "updatedAt": "2024-03-04T15:28:52.459Z"
+                }
+            ],
+            "classTitle": "coffee",
+            "bitmap": {
+                "data": "eJwBnQFi/olQTkcNChoKAAAADUlIRFIAAADvAAAAXgEDAAAA8SjRKgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFFSURBVHicjdbLtYMgEIBhc7LI0hIoxdK0k9uKpVACSxYe54oikcf8hGU+GWcGJAxDGsYPMEYRcap+5Bwr6jGWhr6Tyl7rSx6jztA8WSxz9fqCpeCpYMe8Mxfdqdgx59HnkvPoNXtm6bBl9szSYcu8MUuHV2bL7Jk3ZunwwmyZHfPGnHZUU7+5Kbwyx9xeCvuf+K1wrOyj8M4cF2XU+CrcaHwVPjHPGltqWmybVnbsi1rX1ZeR2TBPzDOzqueaaKsdWS/7ZL3sk0dmwzwxz8y6hrZA2YGh7MBQdtgOBthiZsc+p1cfX8kf6MaxPbY0ZEZ1LdzTH/apHt3xB9j5uvno6Jxq93GuRL/P43bunT8im7iV3OP20EruO7mVXHb1qKM/J9eNLW5F5Y7LJ1fhh3JMNDnvjav1kV5TU3Paeqe/Kno9kP/wD0o3uABuovX4AAAAAElFTkSuQmCCKGbIBg==",
+                "origin": [
+                    167,
+                    72
+                ]
+            }
+        },
+        {
+            "id": 150566760,
+            "classId": 6539258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:52.460Z",
+            "updatedAt": "2024-03-04T15:28:52.460Z",
+            "tags": [
+                {
+                    "id": 108109041,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:52.460Z",
+                    "updatedAt": "2024-03-04T15:28:52.460Z"
+                }
+            ],
+            "classTitle": "lemon",
+            "bitmap": {
+                "data": "eJwBPwLA/YlQTkcNChoKAAAADUlIRFIAAAClAAAAsQEDAAAAn6LvFAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHnSURBVHicvddLkoMgFAVQrQwYsgS20DtwabI0luISHDqwoKN8fJ+ridVJO8spI/c9CYSuK5dJvlPXI6Wo1aWUFqXDU5PScdNZ6obqyf2uKXA1WVeuNqvI7Iry8YaEHjEW5ZErshR9U1q1aUoLsU1pNnfoBCKwbIlcWFu2nmor+kF1hdoSG6ptOMu01uGYBqi1uoFpjTYyXaDWwAxr4J5rwup1wS2wETpBnUEbqjqhy4UOUEeoAksjoMqCs8qCc9OwyoKzWqnpXN0NHZT6mzoqDaeq8ESnM1XtvaczaPqFqlexT4g7av+s7l2d0Qu6pRN6bV/TcKYaP6JgOnxEwdT5ooJp9obGEepwqG26NvWv1V0rndSrPdRpjVRj1ZWpudSFTupY2zdDnaAGpvV1ezpRq0a+xnUtGNAF6szXuHKHWPlKHrFKlq56obkRYmvK8yiKzc13NS7XscTlOpS4XG2Jy9WUuHSB8ftPxyvdvik3Y799ikBt2XaJhm3ZVVt/2JZzD7Qrf1WE/kAtl/2kTq/U/Ks+Xun8fe2hdlhHqK4pPQNYqOaG4rPFEY1mOGYl0xZioto6Eaj2UFvNnqmDWodjWIcTxzSyNuk6ZqEWBKuJvdD9EfpoasBgOcWk1aGz7fNm8IBnfSzXL/gos6IMU1yfAAAAAElFTkSuQmCCLs4T2Q==",
+                "origin": [
+                    46,
+                    7
+                ]
+            }
+        }
+    ]
+}

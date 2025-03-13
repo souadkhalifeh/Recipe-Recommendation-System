@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 547,
+        "width": 410
+    },
+    "objects": [
+        {
+            "id": 150570297,
+            "classId": 6539267,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.900Z",
+            "updatedAt": "2024-03-04T15:29:51.900Z",
+            "tags": [
+                {
+                    "id": 108114019,
+                    "tagId": 31482,
+                    "name": "meat",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.899Z",
+                    "updatedAt": "2024-03-04T15:29:51.899Z"
+                }
+            ],
+            "classTitle": "steak",
+            "bitmap": {
+                "data": "eJwBgQF+/olQTkcNChoKAAAADUlIRFIAAABvAAAAdAEDAAAAsRr+ewAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEpSURBVHictdTNbcQgEAXgsThwiUKOOSWl0Eo6MZ0tHaQF0gFHIiEmtgF7nr2LFCmZC/oODA/xQ9TLERRy8kAbgPOQHKGT5DMpSXaa0y7F3ghq9hYYZkHDXwxcKisk902881ZxyHSfFjlX5r6DWqXvAGgaGRozO9n4Qo8MctmeYyef6JAeWm29NEsGA0yCH0RZcOlcBJfODFR8Q7Kk/g2NZDjTImec+2d0/0ZPPGAYMp5pJdNxxyqNZB6y4ClcqJCwpUKQoxDkyBeax0xwQ9c3On0fXC/w68H1er8cdKOnUfBZZWQaMt57ko/oh3SYCj6V/m9gxp011IShdgakRzpgW6fz9JlFglS+0X6KxMuRajm1nVpE+p1KTq0rH1O3laMgWSdFbyB6auMPrx4ZhqidfkMAAAAASUVORK5CYIJnvJ4N",
+                "origin": [
+                    198,
+                    264
+                ]
+            }
+        },
+        {
+            "id": 150570298,
+            "classId": 6539291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.900Z",
+            "updatedAt": "2024-03-04T15:29:51.900Z",
+            "tags": [
+                {
+                    "id": 108114020,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.900Z",
+                    "updatedAt": "2024-03-04T15:29:51.900Z"
+                }
+            ],
+            "classTitle": "potato",
+            "bitmap": {
+                "data": "eJwBMgHN/olQTkcNChoKAAAADUlIRFIAAABfAAAAWQEDAAAAYttqqwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADaSURBVHicrdS7EcMgDAZgcS5cskEYxaPZo3kURqDkLhwK2Dx+HFQlrvgOLMRDEBFtBB+H3lYcEXw0LMyWuEBz/kqnuWARJeR2g8+MHaAYsCDWCtemKeFMRYTIzBD5yqi1UziFWDrsiFWAQ/iezQNBRPwzDGITEGA/RnjYnCdgmENYxIk4ROCJRDwrGeFXeBFOhIXrlqHmOEUcDxAOG7FD6BEtH4+X/OvG6xkCIwiQg7XVOcBdp2vPuf0zFPCkR/O7zpJhW7CEtIr6VOhcHPXVMLnUKl5pu8rz8gHEaheWlwIzUQAAAABJRU5ErkJggtfIe9c=",
+                "origin": [
+                    114,
+                    226
+                ]
+            }
+        },
+        {
+            "id": 150570299,
+            "classId": 6539298,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:51.901Z",
+            "updatedAt": "2024-03-04T15:29:51.901Z",
+            "tags": [
+                {
+                    "id": 108114021,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:51.901Z",
+                    "updatedAt": "2024-03-04T15:29:51.901Z"
+                }
+            ],
+            "classTitle": "rape",
+            "bitmap": {
+                "data": "eJwBegKF/YlQTkcNChoKAAAADUlIRFIAAAC9AAAAlgEDAAAAsXIbhgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIiSURBVHicvdfbjdwgFAZgEFL8FkqgkUi0lA6gg5SQUpZO4hKQ8kKUEcTmYnM5/4xGWoW35ZvhXAB7lrEyhGf02B4AZAKgk6UhAeCfCnTsZ/BOjAf7LiiQkQUSVORxo8BEkSQFKf1IP6l0Ux7xP8C657xAWGAr4BdQBfYFNAKDIIEYHIFIYKkNgazgQBnrPtUy1n16Ce7bBKZlZSwCR4OfE27wuwPRQ1+isAC2Ee6slBuAAegOlt7BN8zbkAaIr4GPcJ9qkaHtR3eqNwQyg6LA0aAyyAG2srrtIWclQ07UsvuIHnVwx1QB1kPalWfq/F7pjrgg6MA0BfGYPYGX7vAL0kdi5nF+9DHBse0mnFHDAvs5Jwn4U8AvkOtX9dotoEnwZ+GOhPZsFiME1p60aoR4TuQe6xGSOybO+rsD1w0IcUmqjbcBLvUUyKxgugHBjsAhYEQTW2wSPLEfVwgSLOvvxxS7uwYTCAR8na/PCLNAvb96gb3d6nk4hUA7uhCbANSeUBU6VOFzIEp/AdSRc6BZFfQKO+gJhnxMqJ54tOse7brPry+iwpBfRgT8LYutUKMYAgI68M9BIZAIqOgBNf4FENE9Aod2xIIdqZdq7W97KYLYRIWOgXtoK8xpXS/9+Ty0EEsQe4GiV5qD3CtNtdsZaqH7PV/SKo/h8ce1mD/ZRm4jMZ9h/R1+DrBSbqMlQaZf5Pzxb5+iQXgAjH39PPgy/vkPswmLTpg4EzoAAAAASUVORK5CYILP9RsY",
+                "origin": [
+                    53,
+                    305
+                ]
+            }
+        }
+    ]
+}

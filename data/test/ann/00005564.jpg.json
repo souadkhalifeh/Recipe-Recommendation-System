@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150567246,
+            "classId": 6539258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:03.688Z",
+            "updatedAt": "2024-03-04T15:29:03.688Z",
+            "tags": [
+                {
+                    "id": 108109527,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:03.687Z",
+                    "updatedAt": "2024-03-04T15:29:03.687Z"
+                }
+            ],
+            "classTitle": "lemon",
+            "bitmap": {
+                "data": "eJwBWwGk/olQTkcNChoKAAAADUlIRFIAAACqAAAAQQEDAAAAezutgAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEDSURBVHicldSxDcMgEAVQEFIoaVPF2YRVPEI2gDEyDqN4BNJREC4GbCmcvwtfYclPCP4BthC1zCJAqW9C7GJEg2l5Abbkn4CJ4IKYNWXEBrPF7DATRRxkgUEgGzzJdMpoEovZYaYrLDErzBqwPGUDWPna5KF5FRrnGTIfrkPdEqKEmR2m8Z3Z/bE7h4HdzuOa5Ot2n/MyskAsLzMdA8oCWW1cMKe1rb/SufPYjJhST8LYxs5jj6K+H1nuPORYL1To7Bn7yh/Gup6VpTCPK5rOgtVUKh8+YZe37Cx2Qixb05NnrFp3Dz6HaXnvnG3h0qd+I1bwf9ZODDH8QwkVIWsP+daePy1EALnBbPMkAAAAAElFTkSuQmCCGDeQGA==",
+                "origin": [
+                    29,
+                    5
+                ]
+            }
+        },
+        {
+            "id": 150567247,
+            "classId": 6539277,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:03.689Z",
+            "updatedAt": "2024-03-04T15:29:03.689Z",
+            "tags": [
+                {
+                    "id": 108109528,
+                    "tagId": 31485,
+                    "name": "seafood",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:03.688Z",
+                    "updatedAt": "2024-03-04T15:29:03.688Z"
+                }
+            ],
+            "classTitle": "shrimp",
+            "bitmap": {
+                "data": "eJwBzgMx/IlQTkcNChoKAAAADUlIRFIAAAEAAAAA2AEDAAAAPqav0wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAN2SURBVHiczdnLjd4gEABgLKR4bz7n5DZyo5WUkNxXMh2kpLiDlBA6CFEOSxQvxDYMfsDMsPqlKJz2N5/xMIwfawuBNoV3xRZmul+G4EkwhECPoVZgyBAYIDdgCdBvwBFg4MC4gYUAigPTBqhMhb09ALoINArkDXy6gz6CGQZcZhr0RdaHKxiLpI5XMBUpURnIC1Am7wKz6LdR8mATZD9kMNg4aZu2xyHkCfzWB+jy1pBjGNZ9JNRG3HHdoM7AHiDuaCFNO+jXLgm1EWfv8hEiWHbgj9l7SFMJpgSmE5Drbwm1kTbDJBMIGaQqCd+qQB/pOZre99IAegTM3S1/R4vHNQBUDayRWwDTvd9H4AAUAywJiDijrg7Wcefth6nM0iVgIihn6dIC7cBWZmnTEtuoRxQsag9IFcBAFQ0I2Et9C+37DqYCXCrcI3k6Zv/51v0nnSNl/lL7DecrBk6nNtauZ3ql6QhGFBgOxDO+skbQ0sWiXOVblGWd3I6BZiofAweBy1TKBDGCYWI4X9rqzXHAcyBwQcZpUGBuAWQMhgO2BRD1EDNFgoUDnq6oBhBaADnNJkDV5P8ClKH6A7N/E6D7A5PHFkCv5QrIemoCAwfGh4HiwPQwYPofB5Wb5RvBwgHHAcsBw4GZA5otagZ4DiwccBywHDAc0NzJzV1eFvIBJYQXSz5/hPBTk88f6cbMAvLsNtzNoOmeR6bScRdiFtj0rPdCgvch/MLA/ozzNMZHdxQI8YzGMYvUVL3fZzAgAPqxBTkAsiAZPCH5zuADMo0MnpElPQAXg8fKKvV3fuSAooH09UmcRmAAXpYAsAEAjF85wB3iAaD/GcAvETNZkS3AcIewjTHggJ2FeBRA2fc/OPAFAfBqqR84gAXhWsE7DNhWgC6naQbYPWMGgMWgOSAYwF5oHQfsARQdI3JuHQPUwHrZOvVX7hdemjMoo7y9JS5HeCsog7wBVQD3RjDlDp3+tFdw7ClYkI52SdOp5PIDJgGmNjAjMXiY8g1MBdBIojyk/QbG8BrBAkDcgcsZHhK8gwlAX0nk9sp5ggx3lUlcgKiEsL3VPjKsKt8tenjWMiK+0SyBDjmBQ+UDTw//b209svLVQsI77LLrCtCPKl16/2kwIFwEGgUf9wUlv1+pQH8Z2lcZD2Ftwyv5YWjNlX0m+4Wc69v/Av7rruiMJRU8AAAAAElFTkSuQmCChoaodw==",
+                "origin": [
+                    0,
+                    38
+                ]
+            }
+        },
+        {
+            "id": 150567248,
+            "classId": 6539310,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:29:03.691Z",
+            "updatedAt": "2024-03-04T15:29:03.691Z",
+            "tags": [
+                {
+                    "id": 108109529,
+                    "tagId": 31477,
+                    "name": "vegetable",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:29:03.690Z",
+                    "updatedAt": "2024-03-04T15:29:03.690Z"
+                }
+            ],
+            "classTitle": "cilantro mint",
+            "bitmap": {
+                "data": "eJwBdAGL/olQTkcNChoKAAAADUlIRFIAAACJAAAAVgEDAAAAwYIncAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEcSURBVHicrdRBkoMgEAXQzjhVLL3BuMgF5gZca3Zys+EmwxHYxYWBIOBI9zelqQqbmFfSfhqUiGiI25goj76hgBSzdLeWzEIqHpBN8tkDfQ2MXCKNFH8ZeaJLjCdICZpO0YwUeLMqaUFxl+TE1J0dgok7dPaJb6P7KZpwjUtXNZC8zcvTVUg0fzkAYm/z+RoZ5YPJ6odnpA9ofoHGA1pW/YHUEwvvsTcWycgIJTynGVuTX+14RB7JYS37pPOMQkNebbHqZjvaMlBXy6r/B1YyZffyT93/fKlKqULluqsfL9rKXlYa16UR/TTkOOl1aUTfDRliY1gzMApIM5JHckhWUP8nM1A3yAxppsyQ4ssMiSYkGWufHJIFuhr+/wF4/tC/Sv3SxQAAAABJRU5ErkJggp0hnwM=",
+                "origin": [
+                    62,
+                    0
+                ]
+            }
+        }
+    ]
+}

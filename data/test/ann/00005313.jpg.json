@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 256,
+        "width": 256
+    },
+    "objects": [
+        {
+            "id": 150563744,
+            "classId": 6539229,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:38.152Z",
+            "updatedAt": "2024-03-04T15:27:38.152Z",
+            "tags": [
+                {
+                    "id": 108105569,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:38.149Z",
+                    "updatedAt": "2024-03-04T15:27:38.149Z"
+                }
+            ],
+            "classTitle": "ice cream",
+            "bitmap": {
+                "data": "eJwBeQGG/olQTkcNChoKAAAADUlIRFIAAACBAAAAYwEDAAAAhuLxmgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEhSURBVHicrdVBjsMgDAVQEAuW2c6Oo3CxkeBoOQpH6DKLKJ6GELC/kRpVw65PYP+6ITWmrx+D6xfB7ihOid9QlpeSghJWlJhREoIhBKvEKfEPZFESlEQq2Jx23ALy3kIH1EVJbyE8RLQycVX4oH0VXihUoSzSnIulvoAVsk1GIddkFPK39ESLkqAkqjpJCaFYwjo9Dr0wTv8aPU4ffo/TB5uGZGh1NbPZMzlnZgsrc7Unvjao29oLOZSQlqxkVVKmIuCM6JR4KZsYTpMoZZ9J+iTHAyGMPJP8YM/sFPb6P4lfiJrhVMJX4pXA737I55uuRzMpkYGKgdKHvMl0X0KnhIe8L+qwLl5JjzneSXfMYqAQe7XWY0X8ZZyb+Oeas/X5Axbhwwfm7m0PAAAAAElFTkSuQmCCZrGjVQ==",
+                "origin": [
+                    64,
+                    27
+                ]
+            }
+        },
+        {
+            "id": 150563745,
+            "classId": 6539279,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:38.154Z",
+            "updatedAt": "2024-03-04T15:27:38.154Z",
+            "tags": [
+                {
+                    "id": 108105570,
+                    "tagId": 31479,
+                    "name": "main",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:38.153Z",
+                    "updatedAt": "2024-03-04T15:27:38.153Z"
+                }
+            ],
+            "classTitle": "bread",
+            "bitmap": {
+                "data": "eJwBRAK7/YlQTkcNChoKAAAADUlIRFIAAAD9AAAAjgEDAAAAwE2c0AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHsSURBVHicpdjJtYQgEAVQPL1waQiEYmgSGqEQAksXHuvbDoxVPH7rqg/chuIh9qDUfZFRrWsgADQAxwBtMCIwIaAB+Bz9BCqgrQG+/bTK/cMJHKiALCihBaYTGBnMAFw1NsCIwDWDHOQ9gwxGAfhihgrszwsSwFICUwKDgEXAIeARWAtg/w02AGhHgCAwOXAVsAg4BHwOypMVWh5QnM0htDxgz8En3CIPKDbjE1oCsBnQoSWArMohLozYIaZvgy/AVoK1AGlWU3wHEUdOQDVYc2AqENJKnjoZCGnpOOPMFXE91651jhk459B2SUuiaoglT0bnYrtXENc5kHwZboj0sqous6qoCXy6aO5aEdgRIAgMArYLwChfActsOANmGbg+oGXgEViTU/Ib2PpA45ba+8CrO6bv6OCzNcsAbqftO50QTDJwfeDNA8ChrOETwqPN6ASNs9ULFgRmEdwfMfo1mBCQN+MGcta9QM76zkGO8gGLBJwCUUJgFYjSqHaUxaf9GyBFGb7XSFHGLz4QLK/BDFYhRRnB9COIv0ukKAOQogxAWoaJYkGA344E8FFYBYZIATtEBriVuAwwYxSgDrQEVaIVKIWvQCEYkAsOZMJyIBVsfyLEPx2efXESeG4Puf/aGN8C8N+dY2O+Jf4BV6NLpojd2VYAAAAASUVORK5CYIJhz+ls",
+                "origin": [
+                    0,
+                    74
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 150565914,
+            "classId": 6539234,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:38.147Z",
+            "updatedAt": "2024-03-04T15:28:38.147Z",
+            "tags": [
+                {
+                    "id": 108107739,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:38.146Z",
+                    "updatedAt": "2024-03-04T15:28:38.146Z"
+                }
+            ],
+            "classTitle": "coffee",
+            "bitmap": {
+                "data": "eJwBHgTh+4lQTkcNChoKAAAADUlIRFIAAAE4AAABEwEDAAAAmNqI3AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPGSURBVHicxdpLkuMgDAbgdvUiS47guQlXmhuYo3EUdrNl6YXLmk4ngHhI/El5ptl0VecrWxJyDLE/Prqx7P3/RmMhQh0F0JEHXQTdAZz47pBUCAyQwAAJDJDAAAkMkMAACQyQwAAJDJDAAAkMkMAACQyQwAAJDJDAAAkLcCEswOL0AIvTA2TOae6zuAA69RuJOTUR5tREbsw50AXQaYkY5rREuDtBpyVSOS+7lbsAugg6pTCVUxK23CkzXDsnuq1yHnRRdBVTEq6d2AlL7cTCNE4szGfjPOiC4G6Ni+WjX5pjhYncmcaVwiyVWxtXEr7tqnP5TFXNbet8PkJV8611YexaVpzlc9NOGyug5U3bTgcr4MbnsHfH0LXTwVw116ZzKculmuu1c1QcmxDbO5cjRx2buK13PmfIJqRnKcsbsd7py5ezNNz15ctuJdZjg7KkLO8fsbnpx8EqscunTVlaltTocMk9P3PS4VKW6Ri7cLiU5fgzPvwrrr8guhGkmWpGBN0ulvY9d6R2ucidUie96ai0y/91TmrNN52H2up6F6A2xV3EHdDOuNuhdsbdgTtzpTtxtyKOrnf2Uuegy+NfOIh9XUhXu+1SF8A64w7q+/sXwoa4Fy50KMKI3Vgfd8x17nbwjr7nlRPi5rXRlkF8pHWVBd2sNnmdtoJuUpviDOj02rCFrlobvkOxoNMasdrxrKDTiv3xm8FNcZvDnGUl1M5r2eZIdyfoyu5IZme1W5i5Y1q/h3tuAuaO5s58/42g+04FcYfeWNndU1HcUdoddTvoyIHuUK64g5/sD+iUgTtoPflVjJ9y2I0fdfF6t13pwvXOIs7/nFsR53BnrnSz++QbDrkwz8nd7x2HNDTqjsndtHL2OrdPlg9vOQM6YILjKw5ohPCKAxrBz5Yjz+FAN11WveaqHyiV8VzfrDP33AUY0E0nLoLusayaT1yYrtMew0/XfY+R1ofbxD3ZtNDJrTrLC12juwN0+df9SaFjcpNCZzcpdEhuUmif3aY6l51VXWZ6oU/QsY2MAZ1aaPawRS10LE4tdCmzXmjP3KY4x9wKOqM4xrTCoFvV+oGt7OoHwJvoQuVW0fnKGdFVTE64eZ4sdkL7HBtLQ07YN85CaYgJd4/FhYS7x/HCDMfWCYm0aUgz5zqnPcqbBjh6W2AUYJ/GOMAwcKMA+zTGAQ7YKMDxSw99gOOXKPoAR2mMAhylMQhQenejDdALrgkQfXVjnEV/YpHVVyf6LpJTHCuN/hJZ+f6Qs/geKRXtzab7WJCz3ocZHuwvDsQqfeHidIUAAAAASUVORK5CYIKQzgUe",
+                "origin": [
+                    105,
+                    76
+                ]
+            }
+        },
+        {
+            "id": 150565915,
+            "classId": 6539248,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:28:38.148Z",
+            "updatedAt": "2024-03-04T15:28:38.148Z",
+            "tags": [
+                {
+                    "id": 108107740,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:28:38.148Z",
+                    "updatedAt": "2024-03-04T15:28:38.148Z"
+                }
+            ],
+            "classTitle": "apricot",
+            "bitmap": {
+                "data": "eJwB/gEB/olQTkcNChoKAAAADUlIRFIAAACSAAAAmwEDAAAAs7pQBQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGmSURBVHicrdZPcoMgFAZwMy5c5ggexaPJTC/GUegN6I4FhSIqvD9fUtOURRa/UeR7E+ANwzamXIcbyJh3C9TW3SKhW9Z2TJeTno7ZclgmlrWNwCZg92ZGfZbaCixru3WzeindpovWl9cLPQNbugVgrdA9Ri9qJsMAcypa+wizpOLms9ITMwPMybhleBm3fZhblHHbYpCtzLKKey5QmJVxH5hTJdiDSAuqBNgisKRKlWsQZLM0A8xiW6S5i+aBBWyrtPiGpTcsv2eKSqH/bvbfbf1XM5dtecW+gX3xtVT7BPYBbNQWgXlhc/l1kzajLfFNVy0CC3yDVfO8ENUcL2I1C0z8aaqJs8iWZSRgUZxFmwV1RN/L8u7KHDArzg5T5jLCtjNM7v9iCVjUNspzorw3em03B8wK2w5UI/Zr1LfeE+MlDS/Z+Kv5i+Ye3qLc7EUz4AZGNlyzBG5+1CFEYKi7ONsaav6wlZgDZg9bVDR+7x3EggBrnRMJ1zosEqR1YiSIf2YknGvWg9hmPcigjXTLLRztyPUn2mpoo33Gc8zqlPyx/fXjsR8uSHR+8DhXYwAAAABJRU5ErkJggrL95J0=",
+                "origin": [
+                    111,
+                    0
+                ]
+            }
+        }
+    ]
+}

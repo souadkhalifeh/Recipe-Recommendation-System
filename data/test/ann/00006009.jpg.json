@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 384,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 150563521,
+            "classId": 6539231,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:32.415Z",
+            "updatedAt": "2024-03-04T15:27:32.415Z",
+            "tags": [
+                {
+                    "id": 108105346,
+                    "tagId": 31480,
+                    "name": "dessert",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:32.415Z",
+                    "updatedAt": "2024-03-04T15:27:32.415Z"
+                }
+            ],
+            "classTitle": "cake",
+            "bitmap": {
+                "data": "eJwBOALH/YlQTkcNChoKAAAADUlIRFIAAADKAAAApQEDAAAAJwnwZAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHgSURBVHiczdhNbsMgEAVgkBde+gg+CkczvRm9CVIvgNSNF8hUNn+xZx5VsFWVXfLJ4c3gEBMh6pDBCjBkCBrQHIIHFAK6bNiJn23aaWVJ7bTBqUKAU4Vg0FR8DhXJMbRE4oqOwkWUiZiIQyYaccxEI06ZaMQ5E41YiEZUmWjESvqcQOdmXEjtK8iSPOYOHB0VaZaOj7IcxeY5jmKHPEe1IEILpqvURg2YRkzTVeqizJRGA7JvMi80Ib/ku4qUtY8VU+ArPobF5DGFBhlMDpPHtGHaFxSRxbRi8l20dVHoI91F5nlaniX9X0j9GTFf87s0d9EEZGsS3Q8L0V20kMSEVsVz2+gdWtuk3ib3NNmnyeD2Nkhjwr83DdoweUzrL6RYcpgsJtNFGhP/ELAPj8lhMpjAA0el6U3SN4jdHR4n0UPbHeK2Nt9F6WTEbYjuQt+VbCTBkEm0pNdflBQlfaHPSknKLVWpPN9O6Y2PQuWoMhIqZ8HcDkFJ5gkKuUypMJbmNHchK86TubqDVErHkUpGnD9RszTE5hTSlUTsgOJIHWXOHE1HqtzM07ltOJo9cnRuJnNWbVC+txqHX8fQQlr4Wt61rDxmlL2c7TiK6Rt/IHApUqsMSwKliEHARUK+xPsBHiSPWhcfIqwAAAAASUVORK5CYIIm0/lA",
+                "origin": [
+                    247,
+                    104
+                ]
+            }
+        },
+        {
+            "id": 150563522,
+            "classId": 6539234,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:27:32.416Z",
+            "updatedAt": "2024-03-04T15:27:32.416Z",
+            "tags": [
+                {
+                    "id": 108105347,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:27:32.415Z",
+                    "updatedAt": "2024-03-04T15:27:32.415Z"
+                }
+            ],
+            "classTitle": "coffee",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ5QGzDyAwk916WdQFSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EGUuXp4hhSMaf10l7Bwwo8bYk/g3ac4ZBrvXgiQ+qockDQjwCmYwvM7cW17MtrPE50zMk2/Hj6TInWvox+7+ypS7ujHzfuTf5edKpM3vS0ndUh26y2DPts2RD5t+7uBW7Rs41vcZ3P0JY5ceLst8mcpVr5fdanwu7Jfm1et7LqvsOuZT2xImWFE2b6Lq333Vv68KSnqN+r0w9khFeq1Mcrbn6wqzMk6ECzz5JJTN++SwjILg62efvxQ7O1x687pRvuaXZHR0vO9xeaZpPf8Prla6BHGDxd/VzWOSU0AQA5fHOI",
+                "origin": [
+                    29,
+                    131
+                ]
+            }
+        }
+    ]
+}

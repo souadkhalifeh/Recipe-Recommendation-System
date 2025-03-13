@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 273,
+        "width": 410
+    },
+    "objects": [
+        {
+            "id": 150559822,
+            "classId": 6539237,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:27.858Z",
+            "updatedAt": "2024-03-04T15:26:27.858Z",
+            "tags": [
+                {
+                    "id": 108100381,
+                    "tagId": 31483,
+                    "name": "beverage",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:27.858Z",
+                    "updatedAt": "2024-03-04T15:26:27.858Z"
+                }
+            ],
+            "classTitle": "tea",
+            "bitmap": {
+                "data": "eJwBvwFA/olQTkcNChoKAAAADUlIRFIAAAB9AAAAWAEDAAAA4i9q4wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFnSURBVHicddRRcgARDADQGJ3Zv+4R9hr9qqNxNEdxBJ8+jFRFInTri7cIiVmA0S5E2JpHxKDGfQJiOyboKWaMMQvcBPVYsQLNFYhRx9CbPAzl2EJ2RWk0tgvCvieHuRfkPQiH8QvqEYTAnKCiUo6uE+5ziYpKYTWMgzkF6TgXgRqPy5kRbEIgSHK6edDAC9uEyOetCkb0Ah/jU+IbZPhcYAZ8D8icuAR+TC2c2gg9okDvBNPt4dT+HujS0HeNd9/mkdfWN306OOQaO6x+g4dy5pCLfhN43IpOkNaz0GCpEJ6zT0X+B8p6fAVwgReo/4ATaCeoy/yBDFJTroR/hSi3ewEnL2dc9wVmJhfcOySCIhApkxrsuq4dRzQ7zMQ1hvYGXkOdeUKGzEVnSFzjMCFwSSc0KdiEKtmPBFmSPSFJ5hJ1KNlGgP+GfmboyiAVG907TrAMALKmwNaeE6z6c1JzJ9h2AHxJ7wcRs8ABHD5jbQAAAABJRU5ErkJggo2CvCc=",
+                "origin": [
+                    129,
+                    63
+                ]
+            }
+        },
+        {
+            "id": 150559823,
+            "classId": 6539258,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "inbox@datasetninja.com",
+            "createdAt": "2024-03-04T15:26:27.858Z",
+            "updatedAt": "2024-03-04T15:26:27.858Z",
+            "tags": [
+                {
+                    "id": 108100382,
+                    "tagId": 31478,
+                    "name": "fruit",
+                    "value": null,
+                    "labelerLogin": "inbox@datasetninja.com",
+                    "createdAt": "2024-03-04T15:26:27.858Z",
+                    "updatedAt": "2024-03-04T15:26:27.858Z"
+                }
+            ],
+            "classTitle": "lemon",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKuQGzDyAwkufKeJgMptgCfEJDg////l96cfxfIYiwJ8gtmcHh2Iw3Imenp4hhSMaf20kbeIwo8rAFKXVN6Dmj0uLmd1pBUVHUt+X/OrCzJpe8VZ+Lv00ouNU1zmEwEF0z/evxyy9r9zHyXXU+pTBDKNr94eOpVnxChSJO0xMD362KVvjzKelQoszzicA5vvmq2bhNvXcZljroPJocknpXsOtyzcc8ll8dps3Kf+Z52ebj/lYvrZfspe/nWL6lOPPk/YmuDarzapxZ9hdMBD7On+LEDHcng6ernss4poQkApVtfvA==",
+                "origin": [
+                    154,
+                    90
+                ]
+            }
+        }
+    ]
+}
