@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe LLM Recommender</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/styles.css') }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>🔍 Recipe Recommendation System</h1>
+        <p class="tagline">
+          Find the perfect recipe based on your ingredients or food images
+        </p>
+      </header>
+
+      <div class="search-panel">
+        <form method="POST" enctype="multipart/form-data">
+          <div class="form-group">
+            <label>📤 Upload an image of a dish:</label>
+            <div class="file-input-wrapper">
+              <input
+                type="file"
+                name="image"
+                id="image-input"
+                accept="image/*"
+              />
+              <label for="image-input" class="file-input-label"
+                >Choose Image</label
+              >
+              <span id="file-name">No file chosen</span>
+            </div>
+            <div id="image-preview-container" class="hidden">
+              <img id="image-preview" src="#" alt="Preview" />
+            </div>
+          </div>
+
+          <div class="form-divider">
+            <span>OR</span>
+          </div>
+
+          <div class="form-group">
+            <label>📝 Enter ingredients or dish description:</label>
+            <input
+              type="text"
+              name="query"
+              placeholder="e.g. chicken, rice, tomato..."
+            />
+          </div>
+
+          <button type="submit" class="btn-recommend">🍽️ Find Recipes</button>
+        </form>
+      </div>
+
+      {% if caption %}
+      <div class="caption-panel">
+        <h3>Dish name:</h3>
+        <p>{{ caption }}</p>
+      </div>
+      {% endif %} {% if result %}
+      <div class="results-container">
+        <h2>📋 Recommended Recipes:</h2>
+
+        {% for r in result %}
+        <div class="recipe-card">
+          <div class="recipe-header">
+            <h3>{{ r.title }}</h3>
+          </div>
+
+          <div class="recipe-content">
+            <div class="ingredients-section">
+              <h4>Ingredients:</h4>
+              <ul class="ingredients-list">
+                {% if r.ingredients.startswith('(') %} {% for ingredient in
+                r.ingredients.strip('()').replace("'", "").split(", ") %}
+                <li>{{ ingredient }}</li>
+                {% endfor %} {% else %}
+                <li>{{ r.ingredients }}</li>
+                {% endif %}
+              </ul>
+            </div>
+            <div class="instructions-section">
+              <h4>Instructions:</h4>
+              <div class="instructions-text">
+                {% if r.instructions.startswith('{') %} {% set
+                instructions_cleaned =
+                r.instructions.replace('{','').replace('}','').replace('"','').replace('\\u',
+                '') %} {% set steps = instructions_cleaned.split(', ') %} {% for
+                step in steps %} {% if ":" in step %} {% set step_content =
+                step.split(': ')[1] %} {% if not ( "Calories" in step or "Total
+                Fat" in step or "Total fat" in step or "Saturated" in step or
+                "Trans" in step or "Polyunsaturated" in step or
+                "Monounsaturated" in step or "Protein" in step or "Carbohydrate"
+                in step or "Sugars" in step or "Cholesterol" in step or "Sodium"
+                in step or "Calcium" in step or "Potassium" in step or "Fiber"
+                in step or "Unsaturated Fat" in step or "Saturated Fat" in step
+                or "(Per Serving)" in step ) %} {% if "Meanwhile" not in
+                step_content %} {# Filter numbers > 1000 - fixed version #} {%
+                set words = step_content.split() %} {% set filtered_words = []
+                %} {% for word in words %} {% if word.replace(',','').isdigit()
+                %} {% set num = word.replace(',','')|int %} {% if num <= 100 %}
+                {{ filtered_words.append(word) or "" }} {% endif %} {% else %}
+                {{ filtered_words.append(word) or "" }} {% endif %} {% endfor %}
+                <p>{{ filtered_words|join(' ') }}</p>
+                {% endif %} {% endif %} {% endif %} {% endfor %} {% else %} {#
+                For non-JSON format #} {% set cleaned_instructions =
+                r.instructions.replace('\\u', '') %} {% set words =
+                cleaned_instructions.split() %} {% set filtered_words = [] %} {%
+                for word in words %} {% if word.replace(',','').isdigit() %} {%
+                set num = word.replace(',','')|int %} {% if num <= 1000 %} {{
+                filtered_words.append(word) or "" }} {% endif %} {% else %} {{
+                filtered_words.append(word) or "" }} {% endif %} {% endfor %}
+                <p>{{ filtered_words|join(' ') }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+
+    <footer>
+      <p>Recipe LLM Recommender © 2025</p>
+    </footer>
+
+    <script>
+      // Preview uploaded image
+      document
+        .getElementById("image-input")
+        .addEventListener("change", function (event) {
+          const fileInput = event.target;
+          const fileNameDisplay = document.getElementById("file-name");
+          const previewContainer = document.getElementById(
+            "image-preview-container"
+          );
+          const previewImage = document.getElementById("image-preview");
+
+          if (fileInput.files && fileInput.files[0]) {
+            //for file name
+            fileNameDisplay.textContent = fileInput.files[0].name;
+
+            //for image preview
+            const reader = new FileReader();
+            reader.onload = function (e) {
+              previewImage.src = e.target.result;
+              previewContainer.classList.remove("hidden");
+            };
+            reader.readAsDataURL(fileInput.files[0]);
+          } else {
+            fileNameDisplay.textContent = "No file chosen";
+            previewContainer.classList.add("hidden");
+          }
+        });
+    </script>
+  </body>
+</html>
