@@ -1,12 +1,13 @@
 :root {
-  --primary-color: #ff6b6b;
-  --secondary-color: #4ecdc4;
-  --accent-color: #ffe66d;
-  --text-color: #2d3436;
-  --background-color: #f7f7f7;
+  --primary-color: #ff6347;
+  --secondary-color: #4a9d5b;
+  --accent-color: #ffd700;
+  --text-color: #333333;
+  --light-text: #666666;
+  --background-color: #f9f7f5;
   --card-bg: #ffffff;
-  --border-radius: 10px;
-  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --border-radius: 8px;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 * {
@@ -20,37 +21,41 @@ body {
   background-color: var(--background-color);
   color: var(--text-color);
   line-height: 1.6;
+  padding-bottom: 2rem;
 }
 
 .container {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
 
 header {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 2.5rem;
+  padding: 1rem;
 }
 
 h1 {
   color: var(--primary-color);
   font-size: 2.5rem;
-  margin-bottom: 0.5rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
 }
 
 .tagline {
-  color: #666;
+  color: var(--light-text);
   font-size: 1.1rem;
+  font-weight: 300;
 }
 
-/*form style*/
+/*form*/
 .search-panel {
   background-color: var(--card-bg);
   border-radius: var(--border-radius);
-  padding: 2rem;
   box-shadow: var(--box-shadow);
-  margin-bottom: 2rem;
+  padding: 2rem;
+  margin-bottom: 2.5rem;
 }
 
 .form-group {
@@ -60,29 +65,33 @@ h1 {
 label {
   display: block;
   font-weight: 500;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
   color: var(--text-color);
 }
 
 input[type="text"] {
   width: 100%;
-  padding: 0.8rem 1rem;
+  padding: 0.9rem 1rem;
   border: 2px solid #e0e0e0;
-  border-radius: 6px;
+  border-radius: var(--border-radius);
   font-size: 1rem;
-  transition: border-color 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 input[type="text"]:focus {
   border-color: var(--secondary-color);
+  box-shadow: 0 0 0 3px rgba(74, 157, 91, 0.2);
   outline: none;
 }
 
+/*file input*/
 .file-input-wrapper {
   position: relative;
   display: flex;
   align-items: center;
   margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 
 input[type="file"] {
@@ -94,30 +103,33 @@ input[type="file"] {
   display: inline-block;
   background-color: var(--secondary-color);
   color: white;
-  padding: 0.6rem 1.2rem;
-  border-radius: 6px;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
   cursor: pointer;
   transition: background-color 0.3s ease;
+  font-weight: 500;
 }
 
 .file-input-label:hover {
-  background-color: #3db5ae;
+  background-color: #3d8a4e;
 }
 
 #file-name {
-  margin-left: 1rem;
-  color: #666;
+  color: var(--light-text);
+  font-size: 0.9rem;
 }
 
 #image-preview-container {
   margin-top: 1rem;
   max-width: 300px;
+  width: 100%;
 }
 
 #image-preview {
   width: 100%;
-  border-radius: 6px;
+  border-radius: var(--border-radius);
   border: 1px solid #e0e0e0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 .hidden {
@@ -126,7 +138,7 @@ input[type="file"] {
 
 .form-divider {
   text-align: center;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   position: relative;
 }
 
@@ -146,7 +158,8 @@ input[type="file"] {
   padding: 0 1rem;
   position: relative;
   z-index: 2;
-  color: #888;
+  color: var(--light-text);
+  font-weight: 500;
 }
 
 .btn-recommend {
@@ -156,25 +169,26 @@ input[type="file"] {
   background-color: var(--primary-color);
   color: white;
   border: none;
-  border-radius: 6px;
+  border-radius: var(--border-radius);
   font-size: 1.1rem;
   font-weight: 600;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  margin-top: 1.5rem;
 }
 
 .btn-recommend:hover {
-  background-color: #ff5252;
+  background-color: #e05040;
 }
 
-/*caption*/
+/* Caption Panel */
 .caption-panel {
   background-color: var(--card-bg);
   border-radius: var(--border-radius);
   padding: 1.5rem;
   margin-bottom: 2rem;
   box-shadow: var(--box-shadow);
-  border-left: 4px solid var(--secondary-color);
+  border-left: 4px solid var(--accent-color);
 }
 
 .caption-panel h3 {
@@ -182,11 +196,18 @@ input[type="file"] {
   margin-bottom: 0.5rem;
 }
 
-/*results style*/
+.caption-panel p {
+  font-size: 1.1rem;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+/*results*/
 .results-container h2 {
   color: var(--primary-color);
   margin-bottom: 1.5rem;
   text-align: center;
+  font-size: 1.8rem;
 }
 
 .recipe-card {
@@ -195,17 +216,24 @@ input[type="file"] {
   overflow: hidden;
   box-shadow: var(--box-shadow);
   margin-bottom: 2rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.recipe-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 .recipe-header {
   background-color: var(--primary-color);
-  padding: 1.5rem;
+  padding: 1.25rem 1.5rem;
   color: white;
 }
 
 .recipe-header h3 {
   margin: 0;
   font-size: 1.4rem;
+  font-weight: 600;
 }
 
 .recipe-content {
@@ -221,40 +249,26 @@ input[type="file"] {
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid #f0f0f0;
+  font-size: 1.2rem;
 }
 
-.ingredients-list {
-  list-style-type: none;
-}
-
-.ingredients-list li {
-  padding: 0.4rem 0;
-  position: relative;
-  padding-left: 1.5rem;
-}
-
-.ingredients-list li:before {
-  content: "•";
-  color: var(--primary-color);
-  position: absolute;
-  left: 0;
-  font-weight: bold;
-}
-
-.instructions-list {
-  padding-left: 1.5rem;
-}
-
-.instructions-list li {
-  margin-bottom: 1rem;
-  line-height: 1.7;
+.ingredients-list pre,
+.instructions-list pre {
+  font-family: "Poppins", sans-serif;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  line-height: 1.8;
+  font-size: 0.95rem;
 }
 
 footer {
   text-align: center;
   padding: 2rem 0;
-  color: #777;
+  color: var(--light-text);
   font-size: 0.9rem;
+  background-color: var(--card-bg);
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.05);
+  margin-top: 3rem;
 }
 
 @media (max-width: 768px) {
@@ -268,5 +282,23 @@ footer {
 
   h1 {
     font-size: 2rem;
+  }
+
+  .form-group {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .search-panel {
+    padding: 1.5rem;
+  }
+
+  .recipe-header h3 {
+    font-size: 1.2rem;
   }
 }
