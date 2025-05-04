@@ -44,6 +44,13 @@ Recipes are shown in card format with:
 - Powered by Flask, HTML/CSS frontend
 - Returns 10 relevant, easy-to-follow recipes
 
+## Tech Stack 
+  - Frontend : HTML, CSS
+  - Backend : Flask (Python)
+  - AI Models : BLIP, HuggingFace Embeddings
+  - Retrieval Engine : LangChain + ChromaDB
+  - Dataset : Kaggle Food Ingredients Dataset (https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images)
+    
 ## Future Enhancements
   - Personalized user profiles (diet, allergies, preferences)
   - Mobile app version
