@@ -51,6 +51,10 @@ Recipes are shown in card format with:
   - Retrieval Engine : LangChain + ChromaDB
   - Dataset : Kaggle Food Ingredients Dataset (https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images)
     
+## How to run this model
+  -docker build -t recipe_app
+  -docker run -p 5000:5000
+  
 ## Future Enhancements
   - Personalized user profiles (diet, allergies, preferences)
   - Mobile app version
